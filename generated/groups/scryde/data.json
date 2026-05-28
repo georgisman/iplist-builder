@@ -1,0 +1,100 @@
+{
+  "cidr": [
+    "3.33.251.168/32",
+    "15.197.225.128/32",
+    "92.205.175.59/32",
+    "185.203.72.9/32",
+    "185.203.72.61/32"
+  ],
+  "description": "Scryde domains",
+  "domains": [
+    "ruscryde.net",
+    "scryde.io",
+    "scryde.net",
+    "scryde.ru",
+    "scryde.world",
+    "scryde1.net",
+    "scryde10.net",
+    "scryde11.net",
+    "scryde12.net",
+    "scryde2.net",
+    "scryde3.net",
+    "scryde4.net",
+    "scryde5.net",
+    "scryde6.net",
+    "scryde7.net",
+    "scryde8.net",
+    "scryde9.net"
+  ],
+  "id": "scryde",
+  "ipv4": [
+    "15.197.225.128",
+    "185.203.72.61",
+    "185.203.72.9",
+    "3.33.251.168",
+    "92.205.175.59"
+  ],
+  "ipv4_by_domain": {
+    "ruscryde.net": [
+      "185.203.72.61"
+    ],
+    "scryde.io": [
+      "15.197.225.128",
+      "3.33.251.168"
+    ],
+    "scryde.net": [
+      "185.203.72.61"
+    ],
+    "scryde.ru": [
+      "92.205.175.59"
+    ],
+    "scryde1.net": [
+      "185.203.72.9"
+    ],
+    "scryde10.net": [
+      "185.203.72.9"
+    ],
+    "scryde11.net": [
+      "185.203.72.9"
+    ],
+    "scryde12.net": [
+      "185.203.72.9"
+    ],
+    "scryde2.net": [
+      "185.203.72.9"
+    ],
+    "scryde3.net": [
+      "185.203.72.9"
+    ],
+    "scryde4.net": [
+      "185.203.72.9"
+    ],
+    "scryde5.net": [
+      "185.203.72.9"
+    ],
+    "scryde6.net": [
+      "185.203.72.9"
+    ],
+    "scryde7.net": [
+      "185.203.72.9"
+    ],
+    "scryde8.net": [
+      "185.203.72.9"
+    ],
+    "scryde9.net": [
+      "185.203.72.9"
+    ]
+  },
+  "ipv6": [],
+  "stats": {
+    "cidr": 5,
+    "domains": 17,
+    "ipv4": 5,
+    "unresolved": 1
+  },
+  "title": "Scryde",
+  "unresolved": {
+    "scryde.world": "NoAnswer: The DNS response does not contain an answer to the question: scryde.world. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
+  },
+  "updated_at": "2026-05-28T23:37:52+00:00"
+}

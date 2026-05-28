@@ -1,0 +1,28 @@
+{
+  "cidr": [
+    "162.55.60.2/32"
+  ],
+  "description": "IP checkers and diagnostic tools",
+  "domains": [
+    "showip.net"
+  ],
+  "id": "diagnostics",
+  "ipv4": [
+    "162.55.60.2"
+  ],
+  "ipv4_by_domain": {
+    "showip.net": [
+      "162.55.60.2"
+    ]
+  },
+  "ipv6": [],
+  "stats": {
+    "cidr": 1,
+    "domains": 1,
+    "ipv4": 1,
+    "unresolved": 0
+  },
+  "title": "Diagnostics / IP tools",
+  "unresolved": {},
+  "updated_at": "2026-05-28T23:37:52+00:00"
+}

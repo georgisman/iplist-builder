@@ -1,0 +1,202 @@
+{
+  "all": {
+    "cidr": 761,
+    "domains": 420,
+    "ipv4": 781,
+    "unresolved": 23
+  },
+  "generator": "scripts/generate.py",
+  "groups": [
+    {
+      "cidr": 1,
+      "description": "IP checkers and diagnostic tools",
+      "domains": 1,
+      "id": "diagnostics",
+      "ipv4": 1,
+      "title": "Diagnostics / IP tools",
+      "unresolved": 0
+    },
+    {
+      "cidr": 0,
+      "description": "Ukrainian TLD zone. TLD entries are kept in domain lists only and are not DNS-resolved.",
+      "domains": 1,
+      "id": "ua-zone",
+      "ipv4": 0,
+      "title": "UA zone",
+      "unresolved": 0
+    },
+    {
+      "cidr": 13,
+      "description": "Private messengers and related services",
+      "domains": 9,
+      "id": "messengers",
+      "ipv4": 13,
+      "title": "Messengers",
+      "unresolved": 0
+    },
+    {
+      "cidr": 1,
+      "description": "LinkedIn and CDN domains",
+      "domains": 2,
+      "id": "linkedin",
+      "ipv4": 1,
+      "title": "LinkedIn",
+      "unresolved": 1
+    },
+    {
+      "cidr": 52,
+      "description": "Torrent trackers and torrent-related resources",
+      "domains": 34,
+      "id": "torrents",
+      "ipv4": 52,
+      "title": "Torrents",
+      "unresolved": 4
+    },
+    {
+      "cidr": 45,
+      "description": "VPN, proxy and censorship-circumvention services",
+      "domains": 22,
+      "id": "vpn",
+      "ipv4": 45,
+      "title": "VPN / proxy / privacy tunnels",
+      "unresolved": 1
+    },
+    {
+      "cidr": 5,
+      "description": "Scryde domains",
+      "domains": 17,
+      "id": "scryde",
+      "ipv4": 5,
+      "title": "Scryde",
+      "unresolved": 1
+    },
+    {
+      "cidr": 52,
+      "description": "AI assistants, model providers and AI tooling",
+      "domains": 34,
+      "id": "ai",
+      "ipv4": 52,
+      "title": "AI services",
+      "unresolved": 2
+    },
+    {
+      "cidr": 11,
+      "description": "Notion app, sites and static resources",
+      "domains": 6,
+      "id": "notion",
+      "ipv4": 12,
+      "title": "Notion",
+      "unresolved": 1
+    },
+    {
+      "cidr": 20,
+      "description": "Selected Google endpoints",
+      "domains": 4,
+      "id": "google",
+      "ipv4": 26,
+      "title": "Google selected services",
+      "unresolved": 0
+    },
+    {
+      "cidr": 74,
+      "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
+      "domains": 42,
+      "id": "dev",
+      "ipv4": 74,
+      "title": "Developer tools",
+      "unresolved": 0
+    },
+    {
+      "cidr": 100,
+      "description": "Streaming, audio, video and sports resources",
+      "domains": 43,
+      "id": "media",
+      "ipv4": 103,
+      "title": "Media / streaming / sports",
+      "unresolved": 3
+    },
+    {
+      "cidr": 56,
+      "description": "Gaming services and gaming-related resources",
+      "domains": 24,
+      "id": "games",
+      "ipv4": 61,
+      "title": "Games",
+      "unresolved": 4
+    },
+    {
+      "cidr": 60,
+      "description": "Cloud providers, hosting providers and remote tooling",
+      "domains": 26,
+      "id": "cloud-hosting",
+      "ipv4": 61,
+      "title": "Cloud / hosting",
+      "unresolved": 1
+    },
+    {
+      "cidr": 21,
+      "description": "Finance, crypto, exchangers and payment services",
+      "domains": 10,
+      "id": "finance",
+      "ipv4": 21,
+      "title": "Finance / crypto",
+      "unresolved": 0
+    },
+    {
+      "cidr": 16,
+      "description": "Private mail and temporary mail services",
+      "domains": 14,
+      "id": "privacy-mail",
+      "ipv4": 16,
+      "title": "Privacy mail",
+      "unresolved": 0
+    },
+    {
+      "cidr": 40,
+      "description": "Education, medical reference, science and books",
+      "domains": 19,
+      "id": "education-science",
+      "ipv4": 40,
+      "title": "Education / science / books",
+      "unresolved": 1
+    },
+    {
+      "cidr": 72,
+      "description": "Social platforms, creator resources, image resources and map/news resources",
+      "domains": 29,
+      "id": "social-content",
+      "ipv4": 72,
+      "title": "Social / content / maps",
+      "unresolved": 2
+    },
+    {
+      "cidr": 29,
+      "description": "Chip, electronics, industrial and hardware vendors",
+      "domains": 26,
+      "id": "electronics-vendors",
+      "ipv4": 29,
+      "title": "Electronics vendors",
+      "unresolved": 1
+    },
+    {
+      "cidr": 116,
+      "description": "Commercial software, SaaS and vendor domains",
+      "domains": 58,
+      "id": "software-companies",
+      "ipv4": 120,
+      "title": "Software companies",
+      "unresolved": 1
+    },
+    {
+      "cidr": 0,
+      "description": "Reserved for domains from the source list that do not fit other groups. Empty for this initial dataset after deduplication.",
+      "domains": 0,
+      "id": "misc",
+      "ipv4": 0,
+      "title": "Misc",
+      "unresolved": 0
+    }
+  ],
+  "safe_mode": true,
+  "updated_at": "2026-05-28T23:37:52+00:00"
+}

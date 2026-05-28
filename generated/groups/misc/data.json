@@ -1,0 +1,18 @@
+{
+  "cidr": [],
+  "description": "Reserved for domains from the source list that do not fit other groups. Empty for this initial dataset after deduplication.",
+  "domains": [],
+  "id": "misc",
+  "ipv4": [],
+  "ipv4_by_domain": {},
+  "ipv6": [],
+  "stats": {
+    "cidr": 0,
+    "domains": 0,
+    "ipv4": 0,
+    "unresolved": 0
+  },
+  "title": "Misc",
+  "unresolved": {},
+  "updated_at": "2026-05-28T23:37:52+00:00"
+}
