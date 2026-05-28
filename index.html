@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IP List Builder</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Static GitHub Pages tool</p>
+        <h1>IP List Builder</h1>
+        <p class="lead">Выбери группы доменов, тип данных и формат. Сайт соберёт итоговый список прямо в браузере из уже сгенерированных файлов.</p>
+      </div>
+      <div class="status-card">
+        <span class="muted">Последнее обновление</span>
+        <strong id="updatedAt">загрузка…</strong>
+        <span id="statusText" class="status ok">инициализация</span>
+      </div>
+    </header>
+
+    <section id="errorBox" class="error hidden"></section>
+
+    <section class="panel controls">
+      <div class="field grow">
+        <label for="searchInput">Поиск по группам</label>
+        <input id="searchInput" type="search" placeholder="ai, vpn, torrents…">
+      </div>
+      <div class="field">
+        <label for="dataType">Тип данных</label>
+        <select id="dataType">
+          <option value="domains">domains</option>
+          <option value="ipv4">ipv4</option>
+          <option value="cidr">cidr</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="formatType">Формат</label>
+        <select id="formatType">
+          <option value="plain">plain list</option>
+          <option value="json">JSON</option>
+          <option value="keenetic">Keenetic BAT</option>
+        </select>
+      </div>
+      <label class="check inline-check">
+        <input id="plainOverride" type="checkbox">
+        <span>Отдать просто списком</span>
+      </label>
+    </section>
+
+    <section class="toolbar">
+      <button id="selectAllBtn" type="button">Выбрать всё</button>
+      <button id="clearAllBtn" type="button">Снять всё</button>
+      <button id="previewBtn" type="button">Предпросмотр</button>
+      <button id="copyBtn" type="button">Скопировать</button>
+      <button id="downloadBtn" type="button" class="primary">Скачать</button>
+    </section>
+
+    <section class="stats-grid">
+      <article><span>Выбрано групп</span><strong id="statGroups">0</strong></article>
+      <article><span>Доменов</span><strong id="statDomains">0</strong></article>
+      <article><span>IPv4</span><strong id="statIpv4">0</strong></article>
+      <article><span>CIDR</span><strong id="statCidr">0</strong></article>
+    </section>
+
+    <section class="layout">
+      <section class="panel groups-panel">
+        <div class="panel-head">
+          <h2>Группы</h2>
+          <span id="visibleCount" class="muted"></span>
+        </div>
+        <div id="groupsList" class="groups-list"></div>
+      </section>
+
+      <section class="panel preview-panel">
+        <div class="panel-head">
+          <h2>Предпросмотр</h2>
+          <span id="resultCount" class="muted">0 строк</span>
+        </div>
+        <pre id="previewOutput" class="preview" tabindex="0">Выбери группы и нажми «Предпросмотр».</pre>
+      </section>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
