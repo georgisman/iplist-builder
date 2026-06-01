@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 742,
+    "cidr": 754,
     "domains": 420,
-    "ipv4": 762,
+    "ipv4": 775,
     "unresolved": 23
   },
   "generator": "scripts/generate.py",
@@ -75,39 +75,39 @@
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
     {
-      "cidr": 11,
+      "cidr": 10,
       "description": "Notion app, sites and static resources",
       "domains": 6,
       "id": "notion",
-      "ipv4": 12,
+      "ipv4": 11,
       "title": "Notion",
       "unresolved": 1
     },
     {
-      "cidr": 11,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 11,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 74,
+      "cidr": 72,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 74,
+      "ipv4": 73,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 101,
+      "cidr": 100,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 55,
+      "cidr": 56,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 60,
+      "ipv4": 61,
       "title": "Games",
       "unresolved": 4
     },
@@ -143,11 +143,11 @@
       "unresolved": 0
     },
     {
-      "cidr": 15,
+      "cidr": 16,
       "description": "Private mail and temporary mail services",
       "domains": 14,
       "id": "privacy-mail",
-      "ipv4": 15,
+      "ipv4": 16,
       "title": "Privacy mail",
       "unresolved": 0
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-01T02:54:16+00:00"
+  "updated_at": "2026-06-01T17:23:10+00:00"
 }
