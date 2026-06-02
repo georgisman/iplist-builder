@@ -26,6 +26,8 @@
     "104.21.89.161/32",
     "104.21.89.221/32",
     "104.21.95.93/32",
+    "157.90.33.73/32",
+    "157.90.33.74/32",
     "162.159.136.6/32",
     "162.159.137.6/32",
     "165.140.203.149/32",
@@ -111,6 +113,8 @@
     "104.21.89.161",
     "104.21.89.221",
     "104.21.95.93",
+    "157.90.33.73",
+    "157.90.33.74",
     "162.159.136.6",
     "162.159.137.6",
     "165.140.203.149",
@@ -251,6 +255,10 @@
       "104.21.81.195",
       "172.67.163.212"
     ],
+    "slifki.biz": [
+      "157.90.33.73",
+      "157.90.33.74"
+    ],
     "thepiratebay.org": [
       "162.159.136.6",
       "162.159.137.6"
@@ -261,17 +269,16 @@
   },
   "ipv6": [],
   "stats": {
-    "cidr": 52,
+    "cidr": 54,
     "domains": 34,
-    "ipv4": 52,
-    "unresolved": 4
+    "ipv4": 54,
+    "unresolved": 3
   },
   "title": "Torrents",
   "unresolved": {
     "cnd2exp.online": "NXDOMAIN: The DNS query name does not exist: cnd2exp.online.; fallback gaierror: [Errno -2] Name or service not known",
     "rutracker.cc": "NoAnswer: The DNS response does not contain an answer to the question: rutracker.cc. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
-    "slifki.biz": "NXDOMAIN: The DNS query name does not exist: slifki.biz.; fallback gaierror: [Errno -2] Name or service not known",
     "torrentgalaxy.to": "NoAnswer: The DNS response does not contain an answer to the question: torrentgalaxy.to. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-06-01T17:23:10+00:00"
+  "updated_at": "2026-06-02T02:51:20+00:00"
 }

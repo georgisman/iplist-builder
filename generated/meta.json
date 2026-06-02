@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 754,
+    "cidr": 738,
     "domains": 420,
-    "ipv4": 775,
-    "unresolved": 23
+    "ipv4": 759,
+    "unresolved": 22
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -44,13 +44,13 @@
       "unresolved": 1
     },
     {
-      "cidr": 52,
+      "cidr": 54,
       "description": "Torrent trackers and torrent-related resources",
       "domains": 34,
       "id": "torrents",
-      "ipv4": 52,
+      "ipv4": 54,
       "title": "Torrents",
-      "unresolved": 4
+      "unresolved": 3
     },
     {
       "cidr": 45,
@@ -75,52 +75,52 @@
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 52,
+      "ipv4": 51,
       "title": "AI services",
       "unresolved": 2
     },
     {
-      "cidr": 10,
+      "cidr": 11,
       "description": "Notion app, sites and static resources",
       "domains": 6,
       "id": "notion",
-      "ipv4": 11,
+      "ipv4": 12,
       "title": "Notion",
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 72,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 73,
+      "ipv4": 74,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 100,
+      "cidr": 99,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 103,
+      "ipv4": 102,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 56,
+      "cidr": 54,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 61,
+      "ipv4": 60,
       "title": "Games",
       "unresolved": 4
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-01T17:23:10+00:00"
+  "updated_at": "2026-06-02T02:51:20+00:00"
 }
