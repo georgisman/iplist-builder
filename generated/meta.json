@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 756,
+    "cidr": 754,
     "domains": 420,
-    "ipv4": 774,
+    "ipv4": 773,
     "unresolved": 22
   },
   "generator": "scripts/generate.py",
@@ -44,11 +44,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 53,
+      "cidr": 54,
       "description": "Torrent trackers and torrent-related resources",
       "domains": 34,
       "id": "torrents",
-      "ipv4": 53,
+      "ipv4": 54,
       "title": "Torrents",
       "unresolved": 3
     },
@@ -71,11 +71,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 52,
+      "cidr": 50,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 52,
+      "ipv4": 51,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,25 +89,25 @@
       "unresolved": 1
     },
     {
-      "cidr": 11,
+      "cidr": 16,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 11,
+      "ipv4": 20,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 77,
+      "cidr": 72,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 78,
+      "ipv4": 73,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 102,
+      "cidr": 100,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 56,
+      "cidr": 55,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 61,
+      "ipv4": 60,
       "title": "Games",
       "unresolved": 4
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 118,
+      "cidr": 114,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 122,
+      "ipv4": 117,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-03T03:26:12+00:00"
+  "updated_at": "2026-06-03T16:22:29+00:00"
 }
