@@ -96,5 +96,5 @@
   "unresolved": {
     "scryde.world": "NoAnswer: The DNS response does not contain an answer to the question: scryde.world. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-06-04T02:55:51+00:00"
+  "updated_at": "2026-06-04T14:42:06+00:00"
 }
