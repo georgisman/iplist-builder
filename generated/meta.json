@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 754,
+    "cidr": 756,
     "domains": 420,
-    "ipv4": 773,
+    "ipv4": 775,
     "unresolved": 22
   },
   "generator": "scripts/generate.py",
@@ -71,11 +71,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 50,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
@@ -98,16 +98,16 @@
       "unresolved": 0
     },
     {
-      "cidr": 72,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 73,
+      "ipv4": 74,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 100,
+      "cidr": 101,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-03T16:22:29+00:00"
+  "updated_at": "2026-06-04T02:55:51+00:00"
 }
