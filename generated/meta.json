@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 751,
+    "cidr": 734,
     "domains": 420,
-    "ipv4": 771,
+    "ipv4": 758,
     "unresolved": 22
   },
   "generator": "scripts/generate.py",
@@ -71,7 +71,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 50,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -80,43 +80,43 @@
       "unresolved": 2
     },
     {
-      "cidr": 10,
+      "cidr": 11,
       "description": "Notion app, sites and static resources",
       "domains": 6,
       "id": "notion",
-      "ipv4": 11,
+      "ipv4": 12,
       "title": "Notion",
       "unresolved": 1
     },
     {
-      "cidr": 16,
+      "cidr": 10,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 20,
+      "ipv4": 10,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 72,
+      "cidr": 73,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 73,
+      "ipv4": 74,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 100,
+      "cidr": 97,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 103,
+      "ipv4": 102,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 55,
+      "cidr": 54,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -125,7 +125,7 @@
       "unresolved": 4
     },
     {
-      "cidr": 60,
+      "cidr": 59,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
@@ -179,7 +179,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 114,
+      "cidr": 113,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-05T02:43:09+00:00"
+  "updated_at": "2026-06-05T14:31:16+00:00"
 }
