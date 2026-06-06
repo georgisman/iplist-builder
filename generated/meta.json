@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 758,
+    "cidr": 747,
     "domains": 420,
-    "ipv4": 777,
+    "ipv4": 762,
     "unresolved": 22
   },
   "generator": "scripts/generate.py",
@@ -75,39 +75,39 @@
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 53,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
     {
-      "cidr": 11,
+      "cidr": 10,
       "description": "Notion app, sites and static resources",
       "domains": 6,
       "id": "notion",
-      "ipv4": 12,
+      "ipv4": 11,
       "title": "Notion",
       "unresolved": 1
     },
     {
-      "cidr": 16,
+      "cidr": 10,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 20,
+      "ipv4": 10,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 72,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 73,
+      "ipv4": 74,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 100,
+      "cidr": 102,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,7 +116,7 @@
       "unresolved": 3
     },
     {
-      "cidr": 55,
+      "cidr": 53,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -125,20 +125,20 @@
       "unresolved": 4
     },
     {
-      "cidr": 59,
+      "cidr": 60,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
-      "ipv4": 60,
+      "ipv4": 61,
       "title": "Cloud / hosting",
       "unresolved": 1
     },
     {
-      "cidr": 24,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 24,
+      "ipv4": 21,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 114,
+      "cidr": 116,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 117,
+      "ipv4": 120,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-06T02:30:51+00:00"
+  "updated_at": "2026-06-06T13:15:01+00:00"
 }
