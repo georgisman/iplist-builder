@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 734,
+    "cidr": 758,
     "domains": 420,
-    "ipv4": 758,
+    "ipv4": 777,
     "unresolved": 22
   },
   "generator": "scripts/generate.py",
@@ -71,11 +71,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 51,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 53,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,34 +89,34 @@
       "unresolved": 1
     },
     {
-      "cidr": 10,
+      "cidr": 16,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 10,
+      "ipv4": 20,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 73,
+      "cidr": 72,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 74,
+      "ipv4": 73,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 97,
+      "cidr": 100,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 102,
+      "ipv4": 103,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 54,
+      "cidr": 55,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -129,16 +129,16 @@
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
-      "ipv4": 61,
+      "ipv4": 60,
       "title": "Cloud / hosting",
       "unresolved": 1
     },
     {
-      "cidr": 21,
+      "cidr": 24,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 21,
+      "ipv4": 24,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -179,7 +179,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 113,
+      "cidr": 114,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-05T14:31:16+00:00"
+  "updated_at": "2026-06-06T02:30:51+00:00"
 }
