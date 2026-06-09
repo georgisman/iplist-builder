@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 759,
+    "cidr": 764,
     "domains": 420,
-    "ipv4": 777,
-    "unresolved": 22
+    "ipv4": 788,
+    "unresolved": 23
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -62,20 +62,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 5,
+      "cidr": 4,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 5,
+      "ipv4": 4,
       "title": "Scryde",
-      "unresolved": 1
+      "unresolved": 2
     },
     {
       "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 52,
+      "ipv4": 51,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 16,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 20,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 100,
+      "cidr": 101,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 54,
+      "cidr": 59,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 59,
+      "ipv4": 64,
       "title": "Games",
       "unresolved": 4
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-09T02:29:47+00:00"
+  "updated_at": "2026-06-09T14:32:42+00:00"
 }
