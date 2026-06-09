@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 766,
+    "cidr": 759,
     "domains": 420,
-    "ipv4": 786,
+    "ipv4": 777,
     "unresolved": 22
   },
   "generator": "scripts/generate.py",
@@ -71,7 +71,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 52,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 16,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 20,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 101,
+      "cidr": 100,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 55,
+      "cidr": 54,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 60,
+      "ipv4": 59,
       "title": "Games",
       "unresolved": 4
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-08T15:34:45+00:00"
+  "updated_at": "2026-06-09T02:29:47+00:00"
 }
