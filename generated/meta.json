@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 766,
+    "cidr": 742,
     "domains": 420,
-    "ipv4": 786,
+    "ipv4": 763,
     "unresolved": 23
   },
   "generator": "scripts/generate.py",
@@ -75,7 +75,7 @@
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 52,
+      "ipv4": 51,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -107,16 +107,16 @@
       "unresolved": 0
     },
     {
-      "cidr": 101,
+      "cidr": 99,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 103,
+      "ipv4": 101,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 56,
+      "cidr": 54,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -125,7 +125,7 @@
       "unresolved": 4
     },
     {
-      "cidr": 60,
+      "cidr": 59,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
@@ -179,7 +179,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 113,
+      "cidr": 114,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-10T02:43:13+00:00"
+  "updated_at": "2026-06-10T14:59:16+00:00"
 }
