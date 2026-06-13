@@ -1,6 +1,6 @@
 {
   "all": {
-    "cidr": 747,
+    "cidr": 749,
     "domains": 420,
     "ipv4": 766,
     "unresolved": 23
@@ -44,20 +44,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 54,
+      "cidr": 53,
       "description": "Torrent trackers and torrent-related resources",
       "domains": 34,
       "id": "torrents",
-      "ipv4": 54,
+      "ipv4": 53,
       "title": "Torrents",
       "unresolved": 3
     },
     {
-      "cidr": 44,
+      "cidr": 45,
       "description": "VPN, proxy and censorship-circumvention services",
       "domains": 22,
       "id": "vpn",
-      "ipv4": 44,
+      "ipv4": 45,
       "title": "VPN / proxy / privacy tunnels",
       "unresolved": 1
     },
@@ -71,7 +71,7 @@
       "unresolved": 2
     },
     {
-      "cidr": 49,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -107,20 +107,20 @@
       "unresolved": 0
     },
     {
-      "cidr": 102,
+      "cidr": 105,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 103,
+      "ipv4": 107,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 57,
+      "cidr": 55,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 62,
+      "ipv4": 60,
       "title": "Games",
       "unresolved": 4
     },
@@ -134,20 +134,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 26,
+      "cidr": 23,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 26,
+      "ipv4": 23,
       "title": "Finance / crypto",
       "unresolved": 0
     },
     {
-      "cidr": 15,
+      "cidr": 16,
       "description": "Private mail and temporary mail services",
       "domains": 14,
       "id": "privacy-mail",
-      "ipv4": 15,
+      "ipv4": 16,
       "title": "Privacy mail",
       "unresolved": 0
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-12T14:41:24+00:00"
+  "updated_at": "2026-06-13T02:42:11+00:00"
 }
