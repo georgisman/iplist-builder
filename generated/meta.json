@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 760,
+    "cidr": 747,
     "domains": 420,
-    "ipv4": 783,
+    "ipv4": 765,
     "unresolved": 23
   },
   "generator": "scripts/generate.py",
@@ -53,7 +53,7 @@
       "unresolved": 3
     },
     {
-      "cidr": 45,
+      "cidr": 44,
       "description": "VPN, proxy and censorship-circumvention services",
       "domains": 22,
       "id": "vpn",
@@ -71,7 +71,7 @@
       "unresolved": 2
     },
     {
-      "cidr": 50,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 100,
+      "cidr": 101,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 55,
+      "cidr": 54,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 60,
+      "ipv4": 61,
       "title": "Games",
       "unresolved": 4
     },
@@ -134,11 +134,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 24,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 27,
+      "ipv4": 21,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -179,7 +179,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 115,
+      "cidr": 114,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-14T13:45:47+00:00"
+  "updated_at": "2026-06-15T02:58:42+00:00"
 }
