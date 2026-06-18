@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 758,
+    "cidr": 760,
     "domains": 420,
-    "ipv4": 774,
+    "ipv4": 779,
     "unresolved": 23
   },
   "generator": "scripts/generate.py",
@@ -71,11 +71,11 @@
       "unresolved": 2
     },
     {
-      "cidr": 53,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 53,
+      "ipv4": 51,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,20 +89,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 11,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 11,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 78,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 78,
+      "ipv4": 74,
       "title": "Developer tools",
       "unresolved": 0
     },
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 55,
+      "cidr": 57,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 60,
+      "ipv4": 62,
       "title": "Games",
       "unresolved": 4
     },
@@ -143,11 +143,11 @@
       "unresolved": 0
     },
     {
-      "cidr": 15,
+      "cidr": 16,
       "description": "Private mail and temporary mail services",
       "domains": 14,
       "id": "privacy-mail",
-      "ipv4": 15,
+      "ipv4": 16,
       "title": "Privacy mail",
       "unresolved": 0
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 117,
+      "cidr": 114,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 120,
+      "ipv4": 115,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-17T14:57:14+00:00"
+  "updated_at": "2026-06-18T02:51:15+00:00"
 }
