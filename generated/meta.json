@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 759,
+    "cidr": 758,
     "domains": 420,
-    "ipv4": 778,
+    "ipv4": 777,
     "unresolved": 23
   },
   "generator": "scripts/generate.py",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-20T13:44:53+00:00"
+  "updated_at": "2026-06-21T02:57:17+00:00"
 }
