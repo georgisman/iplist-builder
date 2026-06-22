@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 742,
+    "cidr": 745,
     "domains": 420,
-    "ipv4": 759,
+    "ipv4": 763,
     "unresolved": 23
   },
   "generator": "scripts/generate.py",
@@ -53,11 +53,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 43,
+      "cidr": 44,
       "description": "VPN, proxy and censorship-circumvention services",
       "domains": 22,
       "id": "vpn",
-      "ipv4": 43,
+      "ipv4": 45,
       "title": "VPN / proxy / privacy tunnels",
       "unresolved": 1
     },
@@ -71,20 +71,20 @@
       "unresolved": 2
     },
     {
-      "cidr": 53,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 53,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
     {
-      "cidr": 10,
+      "cidr": 11,
       "description": "Notion app, sites and static resources",
       "domains": 6,
       "id": "notion",
-      "ipv4": 11,
+      "ipv4": 12,
       "title": "Notion",
       "unresolved": 1
     },
@@ -120,12 +120,12 @@
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 59,
+      "ipv4": 61,
       "title": "Games",
       "unresolved": 4
     },
     {
-      "cidr": 59,
+      "cidr": 60,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
@@ -179,7 +179,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 115,
+      "cidr": 114,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-22T02:59:49+00:00"
+  "updated_at": "2026-06-22T16:41:54+00:00"
 }
