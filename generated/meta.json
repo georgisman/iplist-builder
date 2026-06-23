@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 742,
+    "cidr": 749,
     "domains": 420,
-    "ipv4": 759,
+    "ipv4": 768,
     "unresolved": 24
   },
   "generator": "scripts/generate.py",
@@ -71,11 +71,11 @@
       "unresolved": 2
     },
     {
-      "cidr": 52,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 53,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 16,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 20,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -107,20 +107,20 @@
       "unresolved": 0
     },
     {
-      "cidr": 90,
+      "cidr": 94,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 93,
+      "ipv4": 97,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 51,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 56,
+      "ipv4": 55,
       "title": "Games",
       "unresolved": 5
     },
@@ -134,11 +134,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 21,
+      "cidr": 22,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 21,
+      "ipv4": 22,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-23T02:34:51+00:00"
+  "updated_at": "2026-06-23T14:32:53+00:00"
 }
