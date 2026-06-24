@@ -14,8 +14,8 @@
     "18.165.98.111/32",
     "35.186.218.67/32",
     "52.44.149.96/32",
-    "54.204.130.182/32",
     "54.210.206.212/32",
+    "100.50.144.178/32",
     "104.16.24.14/32",
     "104.16.25.14/32",
     "104.18.26.42/32",
@@ -107,6 +107,7 @@
   ],
   "id": "social-content",
   "ipv4": [
+    "100.50.144.178",
     "104.16.24.14",
     "104.16.25.14",
     "104.18.26.42",
@@ -177,7 +178,6 @@
     "3.171.76.99",
     "35.186.218.67",
     "52.44.149.96",
-    "54.204.130.182",
     "54.210.206.212"
   ],
   "ipv4_by_domain": {
@@ -271,8 +271,8 @@
       "172.67.72.27"
     ],
     "quora.com": [
+      "100.50.144.178",
       "52.44.149.96",
-      "54.204.130.182",
       "54.210.206.212"
     ],
     "quora.com.cdn.cloudflare.net": [
@@ -320,5 +320,5 @@
     "kym-cdn.com": "NoAnswer: The DNS response does not contain an answer to the question: kym-cdn.com. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "patreonusercontent.com": "NoAnswer: The DNS response does not contain an answer to the question: patreonusercontent.com. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-06-23T14:32:53+00:00"
+  "updated_at": "2026-06-24T02:35:46+00:00"
 }
