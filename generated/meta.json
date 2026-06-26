@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 737,
+    "cidr": 725,
     "domains": 420,
-    "ipv4": 749,
+    "ipv4": 742,
     "unresolved": 24
   },
   "generator": "scripts/generate.py",
@@ -53,7 +53,7 @@
       "unresolved": 3
     },
     {
-      "cidr": 45,
+      "cidr": 44,
       "description": "VPN, proxy and censorship-circumvention services",
       "domains": 22,
       "id": "vpn",
@@ -71,11 +71,11 @@
       "unresolved": 2
     },
     {
-      "cidr": 50,
+      "cidr": 53,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 53,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 10,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 10,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -107,25 +107,25 @@
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 90,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 93,
+      "ipv4": 92,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 50,
+      "cidr": 51,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 56,
+      "ipv4": 57,
       "title": "Games",
       "unresolved": 5
     },
     {
-      "cidr": 60,
+      "cidr": 59,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
@@ -143,11 +143,11 @@
       "unresolved": 0
     },
     {
-      "cidr": 15,
+      "cidr": 16,
       "description": "Private mail and temporary mail services",
       "domains": 14,
       "id": "privacy-mail",
-      "ipv4": 15,
+      "ipv4": 16,
       "title": "Privacy mail",
       "unresolved": 0
     },
@@ -161,11 +161,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 72,
+      "cidr": 70,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
-      "ipv4": 72,
+      "ipv4": 70,
       "title": "Social / content / maps",
       "unresolved": 2
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 117,
+      "cidr": 114,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 118,
+      "ipv4": 117,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-25T14:08:54+00:00"
+  "updated_at": "2026-06-26T02:39:38+00:00"
 }

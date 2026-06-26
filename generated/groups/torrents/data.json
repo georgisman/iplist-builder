@@ -280,5 +280,5 @@
     "rutracker.cc": "NoAnswer: The DNS response does not contain an answer to the question: rutracker.cc. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "torrentgalaxy.to": "NoAnswer: The DNS response does not contain an answer to the question: torrentgalaxy.to. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-06-25T14:08:54+00:00"
+  "updated_at": "2026-06-26T02:39:38+00:00"
 }
