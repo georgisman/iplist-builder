@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 730,
+    "cidr": 743,
     "domains": 420,
-    "ipv4": 744,
+    "ipv4": 762,
     "unresolved": 24
   },
   "generator": "scripts/generate.py",
@@ -89,16 +89,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 11,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 11,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 74,
+      "cidr": 73,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 90,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -125,29 +125,29 @@
       "unresolved": 5
     },
     {
-      "cidr": 60,
+      "cidr": 59,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
-      "ipv4": 61,
+      "ipv4": 60,
       "title": "Cloud / hosting",
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 23,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 22,
+      "ipv4": 23,
       "title": "Finance / crypto",
       "unresolved": 0
     },
     {
-      "cidr": 15,
+      "cidr": 16,
       "description": "Private mail and temporary mail services",
       "domains": 14,
       "id": "privacy-mail",
-      "ipv4": 15,
+      "ipv4": 16,
       "title": "Privacy mail",
       "unresolved": 0
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 114,
+      "cidr": 117,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 115,
+      "ipv4": 118,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-06-27T02:32:17+00:00"
+  "updated_at": "2026-06-27T13:16:58+00:00"
 }
