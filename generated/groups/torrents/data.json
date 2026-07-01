@@ -4,8 +4,8 @@
     "5.61.56.204/32",
     "5.61.59.57/32",
     "37.221.67.160/32",
+    "45.8.125.206/32",
     "45.137.66.127/32",
-    "45.151.91.19/32",
     "69.164.197.149/32",
     "93.158.213.92/32",
     "104.21.1.151/32",
@@ -142,7 +142,7 @@
     "193.46.255.29",
     "37.221.67.160",
     "45.137.66.127",
-    "45.151.91.19",
+    "45.8.125.206",
     "5.45.87.206",
     "5.61.56.204",
     "5.61.59.57",
@@ -165,7 +165,7 @@
       "172.67.134.234"
     ],
     "btdig.com": [
-      "45.151.91.19"
+      "45.8.125.206"
     ],
     "cdnbunny.org": [
       "185.130.45.60"
@@ -280,5 +280,5 @@
     "rutracker.cc": "NoAnswer: The DNS response does not contain an answer to the question: rutracker.cc. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "torrentgalaxy.to": "NoAnswer: The DNS response does not contain an answer to the question: torrentgalaxy.to. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-07-01T02:46:15+00:00"
+  "updated_at": "2026-07-01T14:15:17+00:00"
 }
