@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 746,
+    "cidr": 743,
     "domains": 420,
-    "ipv4": 764,
+    "ipv4": 765,
     "unresolved": 24
   },
   "generator": "scripts/generate.py",
@@ -71,11 +71,11 @@
       "unresolved": 2
     },
     {
-      "cidr": 50,
+      "cidr": 49,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 50,
       "title": "AI services",
       "unresolved": 2
     },
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 90,
+      "cidr": 91,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 52,
+      "cidr": 56,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 57,
+      "ipv4": 63,
       "title": "Games",
       "unresolved": 5
     },
@@ -134,20 +134,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 22,
+      "ipv4": 21,
       "title": "Finance / crypto",
       "unresolved": 0
     },
     {
-      "cidr": 16,
+      "cidr": 15,
       "description": "Private mail and temporary mail services",
       "domains": 14,
       "id": "privacy-mail",
-      "ipv4": 16,
+      "ipv4": 15,
       "title": "Privacy mail",
       "unresolved": 0
     },
@@ -161,11 +161,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 70,
+      "cidr": 69,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
-      "ipv4": 70,
+      "ipv4": 69,
       "title": "Social / content / maps",
       "unresolved": 2
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-05T13:15:02+00:00"
+  "updated_at": "2026-07-06T02:29:27+00:00"
 }
