@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 741,
+    "cidr": 747,
     "domains": 420,
-    "ipv4": 756,
+    "ipv4": 766,
     "unresolved": 24
   },
   "generator": "scripts/generate.py",
@@ -71,11 +71,11 @@
       "unresolved": 2
     },
     {
-      "cidr": 50,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 53,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,25 +89,25 @@
       "unresolved": 1
     },
     {
-      "cidr": 16,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 20,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 74,
+      "cidr": 78,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 74,
+      "ipv4": 78,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 90,
+      "cidr": 91,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -134,11 +134,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 22,
+      "ipv4": 21,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 118,
+      "cidr": 115,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 118,
+      "ipv4": 115,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-08T13:46:40+00:00"
+  "updated_at": "2026-07-09T02:11:32+00:00"
 }
