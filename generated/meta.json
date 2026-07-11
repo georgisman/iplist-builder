@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 740,
+    "cidr": 743,
     "domains": 420,
-    "ipv4": 756,
+    "ipv4": 758,
     "unresolved": 24
   },
   "generator": "scripts/generate.py",
@@ -53,7 +53,7 @@
       "unresolved": 3
     },
     {
-      "cidr": 44,
+      "cidr": 45,
       "description": "VPN, proxy and censorship-circumvention services",
       "domains": 22,
       "id": "vpn",
@@ -75,16 +75,16 @@
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
     {
-      "cidr": 11,
+      "cidr": 10,
       "description": "Notion app, sites and static resources",
       "domains": 6,
       "id": "notion",
-      "ipv4": 12,
+      "ipv4": 11,
       "title": "Notion",
       "unresolved": 1
     },
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 90,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,29 +116,29 @@
       "unresolved": 3
     },
     {
-      "cidr": 51,
+      "cidr": 53,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 56,
+      "ipv4": 58,
       "title": "Games",
       "unresolved": 5
     },
     {
-      "cidr": 60,
+      "cidr": 59,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
-      "ipv4": 61,
+      "ipv4": 60,
       "title": "Cloud / hosting",
       "unresolved": 1
     },
     {
-      "cidr": 21,
+      "cidr": 22,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 21,
+      "ipv4": 22,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-10T14:05:00+00:00"
+  "updated_at": "2026-07-11T01:57:04+00:00"
 }
