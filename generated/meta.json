@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 737,
+    "cidr": 744,
     "domains": 420,
-    "ipv4": 757,
+    "ipv4": 762,
     "unresolved": 24
   },
   "generator": "scripts/generate.py",
@@ -62,20 +62,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 4,
+      "cidr": 5,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 4,
+      "ipv4": 5,
       "title": "Scryde",
       "unresolved": 2
     },
     {
-      "cidr": 48,
+      "cidr": 49,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 50,
+      "ipv4": 51,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -107,20 +107,20 @@
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 95,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 93,
+      "ipv4": 97,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 51,
+      "cidr": 56,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 56,
+      "ipv4": 62,
       "title": "Games",
       "unresolved": 5
     },
@@ -134,11 +134,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 21,
+      "cidr": 22,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 21,
+      "ipv4": 22,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 115,
+      "cidr": 121,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 115,
+      "ipv4": 121,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-11T13:01:13+00:00"
+  "updated_at": "2026-07-12T02:00:21+00:00"
 }
