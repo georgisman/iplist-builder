@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 706,
+    "cidr": 708,
     "domains": 420,
-    "ipv4": 736,
+    "ipv4": 738,
     "unresolved": 24
   },
   "generator": "scripts/generate.py",
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 118,
+      "cidr": 119,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 118,
+      "ipv4": 119,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-13T02:02:13+00:00"
+  "updated_at": "2026-07-13T14:14:07+00:00"
 }
