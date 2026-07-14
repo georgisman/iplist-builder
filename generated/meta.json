@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 708,
+    "cidr": 746,
     "domains": 420,
-    "ipv4": 738,
+    "ipv4": 765,
     "unresolved": 24
   },
   "generator": "scripts/generate.py",
@@ -53,7 +53,7 @@
       "unresolved": 3
     },
     {
-      "cidr": 44,
+      "cidr": 45,
       "description": "VPN, proxy and censorship-circumvention services",
       "domains": 22,
       "id": "vpn",
@@ -89,25 +89,25 @@
       "unresolved": 1
     },
     {
-      "cidr": 11,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 11,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 70,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 73,
+      "ipv4": 74,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 90,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,7 +116,7 @@
       "unresolved": 3
     },
     {
-      "cidr": 50,
+      "cidr": 51,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -161,7 +161,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 69,
+      "cidr": 70,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 119,
+      "cidr": 118,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 119,
+      "ipv4": 118,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-13T14:14:07+00:00"
+  "updated_at": "2026-07-14T01:48:32+00:00"
 }
