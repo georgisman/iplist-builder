@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 748,
+    "cidr": 742,
     "domains": 420,
-    "ipv4": 767,
-    "unresolved": 24
+    "ipv4": 757,
+    "unresolved": 25
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -44,13 +44,13 @@
       "unresolved": 1
     },
     {
-      "cidr": 54,
+      "cidr": 52,
       "description": "Torrent trackers and torrent-related resources",
       "domains": 34,
       "id": "torrents",
-      "ipv4": 54,
+      "ipv4": 52,
       "title": "Torrents",
-      "unresolved": 3
+      "unresolved": 4
     },
     {
       "cidr": 45,
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 16,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 20,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 90,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 55,
+      "cidr": 51,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 60,
+      "ipv4": 56,
       "title": "Games",
       "unresolved": 5
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-14T13:15:24+00:00"
+  "updated_at": "2026-07-15T01:44:58+00:00"
 }

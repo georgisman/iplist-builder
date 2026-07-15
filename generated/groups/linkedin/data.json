@@ -1,6 +1,6 @@
 {
   "cidr": [
-    "150.171.22.12/32"
+    "130.211.32.14/32"
   ],
   "description": "LinkedIn and CDN domains",
   "domains": [
@@ -9,11 +9,11 @@
   ],
   "id": "linkedin",
   "ipv4": [
-    "150.171.22.12"
+    "130.211.32.14"
   ],
   "ipv4_by_domain": {
     "linkedin.com": [
-      "150.171.22.12"
+      "130.211.32.14"
     ]
   },
   "ipv6": [],
@@ -27,5 +27,5 @@
   "unresolved": {
     "licdn.com": "NoAnswer: The DNS response does not contain an answer to the question: licdn.com. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-07-14T13:15:24+00:00"
+  "updated_at": "2026-07-15T01:44:58+00:00"
 }
