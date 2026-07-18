@@ -1,7 +1,9 @@
 {
   "cidr": [
     "3.33.251.168/32",
+    "13.248.213.45/32",
     "15.197.225.128/32",
+    "76.223.67.189/32",
     "185.203.72.9/32",
     "185.203.72.61/32",
     "216.227.142.171/32"
@@ -28,11 +30,13 @@
   ],
   "id": "scryde",
   "ipv4": [
+    "13.248.213.45",
     "15.197.225.128",
     "185.203.72.61",
     "185.203.72.9",
     "216.227.142.171",
-    "3.33.251.168"
+    "3.33.251.168",
+    "76.223.67.189"
   ],
   "ipv4_by_domain": {
     "ruscryde.net": [
@@ -58,16 +62,20 @@
       "185.203.72.9"
     ],
     "scryde2.net": [
-      "185.203.72.9"
+      "13.248.213.45",
+      "76.223.67.189"
     ],
     "scryde3.net": [
-      "185.203.72.9"
+      "13.248.213.45",
+      "76.223.67.189"
     ],
     "scryde4.net": [
-      "185.203.72.9"
+      "13.248.213.45",
+      "76.223.67.189"
     ],
     "scryde5.net": [
-      "185.203.72.9"
+      "13.248.213.45",
+      "76.223.67.189"
     ],
     "scryde6.net": [
       "185.203.72.9"
@@ -84,9 +92,9 @@
   },
   "ipv6": [],
   "stats": {
-    "cidr": 5,
+    "cidr": 7,
     "domains": 17,
-    "ipv4": 5,
+    "ipv4": 7,
     "unresolved": 2
   },
   "title": "Scryde",
@@ -94,5 +102,5 @@
     "scryde.ru": "NoNameservers: All nameservers failed to answer the query scryde.ru. IN A: Server Do53:127.0.0.53@53 answered SERVFAIL; fallback gaierror: [Errno -2] Name or service not known",
     "scryde.world": "NoAnswer: The DNS response does not contain an answer to the question: scryde.world. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-07-17T13:10:59+00:00"
+  "updated_at": "2026-07-18T01:48:48+00:00"
 }

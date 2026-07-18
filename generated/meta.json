@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 744,
+    "cidr": 728,
     "domains": 420,
-    "ipv4": 760,
+    "ipv4": 745,
     "unresolved": 25
   },
   "generator": "scripts/generate.py",
@@ -62,16 +62,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 5,
+      "cidr": 7,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 5,
+      "ipv4": 7,
       "title": "Scryde",
       "unresolved": 2
     },
     {
-      "cidr": 50,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -107,16 +107,16 @@
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 90,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 93,
+      "ipv4": 92,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 51,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -125,16 +125,16 @@
       "unresolved": 5
     },
     {
-      "cidr": 60,
+      "cidr": 58,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
-      "ipv4": 61,
+      "ipv4": 60,
       "title": "Cloud / hosting",
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
@@ -179,7 +179,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 118,
+      "cidr": 117,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-17T13:10:59+00:00"
+  "updated_at": "2026-07-18T01:48:48+00:00"
 }
