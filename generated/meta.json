@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 712,
+    "cidr": 734,
     "domains": 420,
-    "ipv4": 741,
+    "ipv4": 750,
     "unresolved": 25
   },
   "generator": "scripts/generate.py",
@@ -71,11 +71,11 @@
       "unresolved": 2
     },
     {
-      "cidr": 52,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 52,
+      "ipv4": 51,
       "title": "AI services",
       "unresolved": 2
     },
@@ -98,34 +98,34 @@
       "unresolved": 0
     },
     {
-      "cidr": 70,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 73,
+      "ipv4": 74,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 94,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 93,
+      "ipv4": 96,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 52,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 58,
+      "ipv4": 56,
       "title": "Games",
       "unresolved": 5
     },
     {
-      "cidr": 60,
+      "cidr": 59,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
@@ -161,7 +161,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 69,
+      "cidr": 70,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 119,
+      "cidr": 118,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 119,
+      "ipv4": 118,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-20T02:13:44+00:00"
+  "updated_at": "2026-07-20T13:51:30+00:00"
 }
