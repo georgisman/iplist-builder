@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 734,
+    "cidr": 736,
     "domains": 420,
-    "ipv4": 750,
+    "ipv4": 748,
     "unresolved": 25
   },
   "generator": "scripts/generate.py",
@@ -71,7 +71,7 @@
       "unresolved": 2
     },
     {
-      "cidr": 51,
+      "cidr": 49,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -107,29 +107,29 @@
       "unresolved": 0
     },
     {
-      "cidr": 94,
+      "cidr": 91,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 96,
+      "ipv4": 93,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 50,
+      "cidr": 53,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 56,
+      "ipv4": 58,
       "title": "Games",
       "unresolved": 5
     },
     {
-      "cidr": 59,
+      "cidr": 58,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
-      "ipv4": 61,
+      "ipv4": 59,
       "title": "Cloud / hosting",
       "unresolved": 1
     },
@@ -161,11 +161,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 70,
+      "cidr": 71,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
-      "ipv4": 70,
+      "ipv4": 71,
       "title": "Social / content / maps",
       "unresolved": 2
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-20T13:51:30+00:00"
+  "updated_at": "2026-07-21T01:57:17+00:00"
 }
