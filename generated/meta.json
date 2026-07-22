@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 708,
+    "cidr": 746,
     "domains": 420,
-    "ipv4": 737,
+    "ipv4": 763,
     "unresolved": 25
   },
   "generator": "scripts/generate.py",
@@ -71,7 +71,7 @@
       "unresolved": 2
     },
     {
-      "cidr": 52,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -89,25 +89,25 @@
       "unresolved": 1
     },
     {
-      "cidr": 10,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 10,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 70,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 73,
+      "ipv4": 74,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 90,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -120,16 +120,16 @@
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 57,
+      "ipv4": 56,
       "title": "Games",
       "unresolved": 5
     },
     {
-      "cidr": 60,
+      "cidr": 58,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
-      "ipv4": 61,
+      "ipv4": 59,
       "title": "Cloud / hosting",
       "unresolved": 1
     },
@@ -161,7 +161,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 70,
+      "cidr": 71,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-22T01:56:07+00:00"
+  "updated_at": "2026-07-22T13:25:38+00:00"
 }
