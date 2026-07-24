@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 727,
+    "cidr": 726,
     "domains": 420,
-    "ipv4": 743,
+    "ipv4": 741,
     "unresolved": 25
   },
   "generator": "scripts/generate.py",
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 10,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 10,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 52,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 57,
+      "ipv4": 55,
       "title": "Games",
       "unresolved": 5
     },
@@ -134,7 +134,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
@@ -170,11 +170,11 @@
       "unresolved": 2
     },
     {
-      "cidr": 29,
+      "cidr": 28,
       "description": "Chip, electronics, industrial and hardware vendors",
       "domains": 26,
       "id": "electronics-vendors",
-      "ipv4": 29,
+      "ipv4": 28,
       "title": "Electronics vendors",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-23T13:29:45+00:00"
+  "updated_at": "2026-07-24T01:58:45+00:00"
 }
