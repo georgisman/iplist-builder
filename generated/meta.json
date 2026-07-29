@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 722,
+    "cidr": 738,
     "domains": 420,
-    "ipv4": 738,
+    "ipv4": 757,
     "unresolved": 25
   },
   "generator": "scripts/generate.py",
@@ -44,11 +44,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 49,
+      "cidr": 52,
       "description": "Torrent trackers and torrent-related resources",
       "domains": 34,
       "id": "torrents",
-      "ipv4": 49,
+      "ipv4": 52,
       "title": "Torrents",
       "unresolved": 4
     },
@@ -71,11 +71,11 @@
       "unresolved": 2
     },
     {
-      "cidr": 51,
+      "cidr": 49,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 52,
+      "ipv4": 50,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 10,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 10,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 92,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 51,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 56,
+      "ipv4": 55,
       "title": "Games",
       "unresolved": 5
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 115,
+      "cidr": 117,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 116,
+      "ipv4": 117,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-28T13:46:17+00:00"
+  "updated_at": "2026-07-29T01:54:13+00:00"
 }
