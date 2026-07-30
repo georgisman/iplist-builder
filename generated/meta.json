@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 726,
+    "cidr": 732,
     "domains": 420,
-    "ipv4": 744,
-    "unresolved": 25
+    "ipv4": 748,
+    "unresolved": 24
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -44,13 +44,13 @@
       "unresolved": 1
     },
     {
-      "cidr": 52,
+      "cidr": 53,
       "description": "Torrent trackers and torrent-related resources",
       "domains": 34,
       "id": "torrents",
-      "ipv4": 52,
+      "ipv4": 53,
       "title": "Torrents",
-      "unresolved": 4
+      "unresolved": 3
     },
     {
       "cidr": 45,
@@ -107,20 +107,20 @@
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 93,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 92,
+      "ipv4": 95,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 50,
+      "cidr": 51,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 55,
+      "ipv4": 56,
       "title": "Games",
       "unresolved": 5
     },
@@ -134,7 +134,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 21,
+      "cidr": 22,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 118,
+      "cidr": 116,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 119,
+      "ipv4": 116,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-30T01:46:24+00:00"
+  "updated_at": "2026-07-30T13:41:48+00:00"
 }
