@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 705,
+    "cidr": 726,
     "domains": 420,
-    "ipv4": 731,
+    "ipv4": 744,
     "unresolved": 25
   },
   "generator": "scripts/generate.py",
@@ -66,7 +66,7 @@
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 7,
+      "ipv4": 8,
       "title": "Scryde",
       "unresolved": 2
     },
@@ -89,25 +89,25 @@
       "unresolved": 1
     },
     {
-      "cidr": 10,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 10,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 71,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 73,
+      "ipv4": 74,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 90,
+      "cidr": 91,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,7 +116,7 @@
       "unresolved": 3
     },
     {
-      "cidr": 49,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -134,7 +134,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 116,
+      "cidr": 118,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 116,
+      "ipv4": 119,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-07-29T13:51:07+00:00"
+  "updated_at": "2026-07-30T01:46:24+00:00"
 }
