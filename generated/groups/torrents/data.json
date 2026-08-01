@@ -50,7 +50,6 @@
     "172.67.206.19/32",
     "172.67.210.40/32",
     "176.97.124.219/32",
-    "188.120.248.158/32",
     "193.46.255.26/32",
     "193.46.255.29/32"
   ],
@@ -134,7 +133,6 @@
     "172.67.206.19",
     "172.67.210.40",
     "176.97.124.219",
-    "188.120.248.158",
     "193.46.255.26",
     "193.46.255.29",
     "37.221.67.160",
@@ -186,9 +184,6 @@
     "kinozal.me": [
       "104.21.87.84",
       "172.67.142.133"
-    ],
-    "kinozal.tv": [
-      "188.120.248.158"
     ],
     "kinozaltv.life": [
       "5.45.87.206",
@@ -266,16 +261,17 @@
   },
   "ipv6": [],
   "stats": {
-    "cidr": 53,
+    "cidr": 52,
     "domains": 34,
-    "ipv4": 53,
-    "unresolved": 3
+    "ipv4": 52,
+    "unresolved": 4
   },
   "title": "Torrents",
   "unresolved": {
     "cnd2exp.online": "NXDOMAIN: The DNS query name does not exist: cnd2exp.online.; fallback gaierror: [Errno -2] Name or service not known",
+    "kinozal.tv": "LifetimeTimeout: The resolution lifetime expired after 5.204 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.; Server Do53:127.0.0.53@53 answered The DNS operation timed out.; fallback gaierror: [Errno -2] Name or service not known",
     "rutracker.cc": "NoAnswer: The DNS response does not contain an answer to the question: rutracker.cc. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "torrentgalaxy.to": "NoAnswer: The DNS response does not contain an answer to the question: torrentgalaxy.to. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-08-01T02:05:15+00:00"
+  "updated_at": "2026-08-01T13:02:05+00:00"
 }

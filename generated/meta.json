@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 744,
+    "cidr": 740,
     "domains": 420,
-    "ipv4": 765,
-    "unresolved": 24
+    "ipv4": 759,
+    "unresolved": 25
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -44,13 +44,13 @@
       "unresolved": 1
     },
     {
-      "cidr": 53,
+      "cidr": 52,
       "description": "Torrent trackers and torrent-related resources",
       "domains": 34,
       "id": "torrents",
-      "ipv4": 53,
+      "ipv4": 52,
       "title": "Torrents",
-      "unresolved": 3
+      "unresolved": 4
     },
     {
       "cidr": 45,
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 90,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 54,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 60,
+      "ipv4": 56,
       "title": "Games",
       "unresolved": 5
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-08-01T02:05:15+00:00"
+  "updated_at": "2026-08-01T13:02:05+00:00"
 }
