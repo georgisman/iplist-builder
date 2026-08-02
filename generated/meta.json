@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 744,
+    "cidr": 738,
     "domains": 420,
-    "ipv4": 762,
+    "ipv4": 757,
     "unresolved": 25
   },
   "generator": "scripts/generate.py",
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 90,
+      "cidr": 91,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -134,11 +134,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 24,
+      "cidr": 22,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 24,
+      "ipv4": 22,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 116,
+      "cidr": 113,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 116,
+      "ipv4": 113,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-08-02T02:02:09+00:00"
+  "updated_at": "2026-08-02T13:03:59+00:00"
 }
