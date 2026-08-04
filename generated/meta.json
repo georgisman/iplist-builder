@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 705,
+    "cidr": 726,
     "domains": 420,
-    "ipv4": 735,
+    "ipv4": 742,
     "unresolved": 25
   },
   "generator": "scripts/generate.py",
@@ -98,25 +98,25 @@
       "unresolved": 0
     },
     {
-      "cidr": 70,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 73,
+      "ipv4": 74,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 89,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 93,
+      "ipv4": 91,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
     {
-      "cidr": 50,
+      "cidr": 51,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -125,7 +125,7 @@
       "unresolved": 5
     },
     {
-      "cidr": 60,
+      "cidr": 59,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
@@ -134,7 +134,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
@@ -161,7 +161,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 69,
+      "cidr": 70,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-08-04T01:50:06+00:00"
+  "updated_at": "2026-08-04T13:52:23+00:00"
 }
