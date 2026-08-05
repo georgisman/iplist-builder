@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 726,
+    "cidr": 735,
     "domains": 420,
-    "ipv4": 742,
+    "ipv4": 750,
     "unresolved": 25
   },
   "generator": "scripts/generate.py",
@@ -71,7 +71,7 @@
       "unresolved": 2
     },
     {
-      "cidr": 51,
+      "cidr": 49,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -98,20 +98,20 @@
       "unresolved": 0
     },
     {
-      "cidr": 74,
+      "cidr": 78,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 74,
+      "ipv4": 78,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 89,
+      "cidr": 91,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 91,
+      "ipv4": 93,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
@@ -125,16 +125,16 @@
       "unresolved": 5
     },
     {
-      "cidr": 59,
+      "cidr": 58,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
-      "ipv4": 61,
+      "ipv4": 59,
       "title": "Cloud / hosting",
       "unresolved": 1
     },
     {
-      "cidr": 21,
+      "cidr": 22,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-08-04T13:52:23+00:00"
+  "updated_at": "2026-08-05T01:50:57+00:00"
 }
