@@ -6,7 +6,6 @@
     "15.197.225.128/32",
     "76.223.67.189/32",
     "104.219.250.37/32",
-    "185.203.72.9/32",
     "185.203.72.61/32"
   ],
   "description": "Scryde domains",
@@ -35,7 +34,6 @@
     "13.248.213.45",
     "15.197.225.128",
     "185.203.72.61",
-    "185.203.72.9",
     "2.59.170.20",
     "3.33.251.168",
     "76.223.67.189"
@@ -61,10 +59,12 @@
       "76.223.67.189"
     ],
     "scryde11.net": [
-      "185.203.72.9"
+      "13.248.213.45",
+      "76.223.67.189"
     ],
     "scryde12.net": [
-      "185.203.72.9"
+      "13.248.213.45",
+      "76.223.67.189"
     ],
     "scryde2.net": [
       "13.248.213.45",
@@ -101,9 +101,9 @@
   },
   "ipv6": [],
   "stats": {
-    "cidr": 8,
+    "cidr": 7,
     "domains": 17,
-    "ipv4": 8,
+    "ipv4": 7,
     "unresolved": 2
   },
   "title": "Scryde",
@@ -111,5 +111,5 @@
     "scryde.ru": "NoNameservers: All nameservers failed to answer the query scryde.ru. IN A: Server Do53:127.0.0.53@53 answered SERVFAIL; fallback gaierror: [Errno -2] Name or service not known",
     "scryde.world": "NoAnswer: The DNS response does not contain an answer to the question: scryde.world. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-08-20T12:31:29+00:00"
+  "updated_at": "2026-08-21T00:51:43+00:00"
 }
