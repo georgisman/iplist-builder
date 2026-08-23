@@ -58,22 +58,6 @@
       "13.248.213.45",
       "76.223.67.189"
     ],
-    "scryde2.net": [
-      "13.248.213.45",
-      "76.223.67.189"
-    ],
-    "scryde3.net": [
-      "13.248.213.45",
-      "76.223.67.189"
-    ],
-    "scryde4.net": [
-      "13.248.213.45",
-      "76.223.67.189"
-    ],
-    "scryde5.net": [
-      "13.248.213.45",
-      "76.223.67.189"
-    ],
     "scryde6.net": [
       "13.248.213.45",
       "76.223.67.189"
@@ -96,13 +80,17 @@
     "cidr": 5,
     "domains": 17,
     "ipv4": 5,
-    "unresolved": 3
+    "unresolved": 7
   },
   "title": "Scryde",
   "unresolved": {
     "scryde.ru": "NoNameservers: All nameservers failed to answer the query scryde.ru. IN A: Server Do53:127.0.0.53@53 answered SERVFAIL; fallback gaierror: [Errno -2] Name or service not known",
     "scryde.world": "NoAnswer: The DNS response does not contain an answer to the question: scryde.world. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
-    "scryde1.net": "NXDOMAIN: The DNS query name does not exist: scryde1.net.; fallback gaierror: [Errno -2] Name or service not known"
+    "scryde1.net": "NXDOMAIN: The DNS query name does not exist: scryde1.net.; fallback gaierror: [Errno -2] Name or service not known",
+    "scryde2.net": "NXDOMAIN: The DNS query name does not exist: scryde2.net.; fallback gaierror: [Errno -2] Name or service not known",
+    "scryde3.net": "NXDOMAIN: The DNS query name does not exist: scryde3.net.; fallback gaierror: [Errno -2] Name or service not known",
+    "scryde4.net": "NXDOMAIN: The DNS query name does not exist: scryde4.net.; fallback gaierror: [Errno -2] Name or service not known",
+    "scryde5.net": "NXDOMAIN: The DNS query name does not exist: scryde5.net.; fallback gaierror: [Errno -2] Name or service not known"
   },
-  "updated_at": "2026-08-23T00:52:25+00:00"
+  "updated_at": "2026-08-23T12:23:28+00:00"
 }
