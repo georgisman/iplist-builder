@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 729,
+    "cidr": 710,
     "domains": 420,
-    "ipv4": 744,
+    "ipv4": 733,
     "unresolved": 30
   },
   "generator": "scripts/generate.py",
@@ -71,7 +71,7 @@
       "unresolved": 7
     },
     {
-      "cidr": 51,
+      "cidr": 50,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -98,11 +98,11 @@
       "unresolved": 0
     },
     {
-      "cidr": 74,
+      "cidr": 70,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 74,
+      "ipv4": 73,
       "title": "Developer tools",
       "unresolved": 0
     },
@@ -116,16 +116,16 @@
       "unresolved": 3
     },
     {
-      "cidr": 52,
+      "cidr": 51,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 57,
+      "ipv4": 56,
       "title": "Games",
       "unresolved": 5
     },
     {
-      "cidr": 62,
+      "cidr": 63,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-08-23T12:23:28+00:00"
+  "updated_at": "2026-08-24T00:50:08+00:00"
 }
