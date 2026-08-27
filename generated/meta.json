@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 720,
+    "cidr": 740,
     "domains": 420,
-    "ipv4": 743,
+    "ipv4": 754,
     "unresolved": 30
   },
   "generator": "scripts/generate.py",
@@ -89,20 +89,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 11,
+      "cidr": 12,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 11,
+      "ipv4": 14,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 76,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 78,
+      "ipv4": 74,
       "title": "Developer tools",
       "unresolved": 0
     },
@@ -116,11 +116,11 @@
       "unresolved": 3
     },
     {
-      "cidr": 52,
+      "cidr": 54,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 58,
+      "ipv4": 59,
       "title": "Games",
       "unresolved": 5
     },
@@ -179,7 +179,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 115,
+      "cidr": 116,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-08-26T12:35:49+00:00"
+  "updated_at": "2026-08-27T06:28:03+00:00"
 }
