@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 739,
+    "cidr": 743,
     "domains": 420,
-    "ipv4": 758,
-    "unresolved": 30
+    "ipv4": 760,
+    "unresolved": 29
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -44,13 +44,13 @@
       "unresolved": 1
     },
     {
-      "cidr": 52,
+      "cidr": 53,
       "description": "Torrent trackers and torrent-related resources",
       "domains": 34,
       "id": "torrents",
-      "ipv4": 52,
+      "ipv4": 53,
       "title": "Torrents",
-      "unresolved": 4
+      "unresolved": 3
     },
     {
       "cidr": 45,
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 91,
+      "cidr": 90,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 113,
+      "cidr": 116,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 113,
+      "ipv4": 116,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-08-30T02:49:47+00:00"
+  "updated_at": "2026-08-30T15:48:30+00:00"
 }
