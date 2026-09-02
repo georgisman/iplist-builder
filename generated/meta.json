@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 738,
+    "cidr": 741,
     "domains": 420,
-    "ipv4": 753,
+    "ipv4": 757,
     "unresolved": 29
   },
   "generator": "scripts/generate.py",
@@ -134,11 +134,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 23,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 22,
+      "ipv4": 23,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 113,
+      "cidr": 116,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 113,
+      "ipv4": 116,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-09-02T02:14:51+00:00"
+  "updated_at": "2026-09-02T15:43:40+00:00"
 }
