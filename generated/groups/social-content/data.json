@@ -5,8 +5,8 @@
     "3.169.149.103/32",
     "3.169.149.115/32",
     "13.248.160.137/32",
+    "35.153.153.71/32",
     "35.186.218.67/32",
-    "44.208.214.99/32",
     "54.84.203.205/32",
     "54.174.208.217/32",
     "76.223.34.124/32",
@@ -170,8 +170,8 @@
     "3.169.149.115",
     "3.169.149.35",
     "3.169.149.79",
+    "35.153.153.71",
     "35.186.218.67",
-    "44.208.214.99",
     "54.174.208.217",
     "54.84.203.205",
     "76.223.34.124"
@@ -265,7 +265,7 @@
       "172.67.72.27"
     ],
     "quora.com": [
-      "44.208.214.99",
+      "35.153.153.71",
       "54.174.208.217",
       "54.84.203.205"
     ],
@@ -314,5 +314,5 @@
     "kym-cdn.com": "NoAnswer: The DNS response does not contain an answer to the question: kym-cdn.com. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "patreonusercontent.com": "NoAnswer: The DNS response does not contain an answer to the question: patreonusercontent.com. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-09-05T14:19:51+00:00"
+  "updated_at": "2026-09-06T02:13:45+00:00"
 }

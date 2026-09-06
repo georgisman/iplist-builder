@@ -2,7 +2,7 @@
   "all": {
     "cidr": 743,
     "domains": 420,
-    "ipv4": 766,
+    "ipv4": 764,
     "unresolved": 29
   },
   "generator": "scripts/generate.py",
@@ -71,11 +71,11 @@
       "unresolved": 7
     },
     {
-      "cidr": 50,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
@@ -120,7 +120,7 @@
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 59,
+      "ipv4": 57,
       "title": "Games",
       "unresolved": 5
     },
@@ -134,11 +134,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 21,
+      "cidr": 22,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 21,
+      "ipv4": 22,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-09-05T14:19:51+00:00"
+  "updated_at": "2026-09-06T02:13:45+00:00"
 }
