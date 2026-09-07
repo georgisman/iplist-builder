@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 716,
+    "cidr": 734,
     "domains": 420,
-    "ipv4": 748,
+    "ipv4": 752,
     "unresolved": 29
   },
   "generator": "scripts/generate.py",
@@ -71,7 +71,7 @@
       "unresolved": 7
     },
     {
-      "cidr": 51,
+      "cidr": 49,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -89,16 +89,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 14,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 16,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 72,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -107,11 +107,11 @@
       "unresolved": 0
     },
     {
-      "cidr": 90,
+      "cidr": 91,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 92,
+      "ipv4": 93,
       "title": "Media / streaming / sports",
       "unresolved": 3
     },
@@ -161,7 +161,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 69,
+      "cidr": 70,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-09-07T02:10:57+00:00"
+  "updated_at": "2026-09-07T16:57:49+00:00"
 }
