@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 746,
+    "cidr": 713,
     "domains": 420,
-    "ipv4": 765,
-    "unresolved": 29
+    "ipv4": 743,
+    "unresolved": 30
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -75,30 +75,30 @@
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 52,
+      "ipv4": 51,
       "title": "AI services",
       "unresolved": 2
     },
     {
-      "cidr": 9,
+      "cidr": 12,
       "description": "Notion app, sites and static resources",
       "domains": 6,
       "id": "notion",
-      "ipv4": 12,
+      "ipv4": 14,
       "title": "Notion",
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 13,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 15,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 74,
+      "cidr": 72,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -107,16 +107,16 @@
       "unresolved": 0
     },
     {
-      "cidr": 90,
+      "cidr": 87,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 93,
+      "ipv4": 89,
       "title": "Media / streaming / sports",
-      "unresolved": 3
+      "unresolved": 4
     },
     {
-      "cidr": 51,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -161,7 +161,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 70,
+      "cidr": 69,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-09-08T15:45:20+00:00"
+  "updated_at": "2026-09-09T02:25:40+00:00"
 }
