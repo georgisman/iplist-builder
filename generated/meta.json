@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 722,
+    "cidr": 743,
     "domains": 420,
-    "ipv4": 748,
+    "ipv4": 763,
     "unresolved": 35
   },
   "generator": "scripts/generate.py",
@@ -71,7 +71,7 @@
       "unresolved": 12
     },
     {
-      "cidr": 52,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -98,7 +98,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 74,
+      "cidr": 75,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -107,29 +107,29 @@
       "unresolved": 0
     },
     {
-      "cidr": 83,
+      "cidr": 87,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 87,
+      "ipv4": 89,
       "title": "Media / streaming / sports",
       "unresolved": 4
     },
     {
-      "cidr": 51,
+      "cidr": 52,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 56,
+      "ipv4": 57,
       "title": "Games",
       "unresolved": 5
     },
     {
-      "cidr": 61,
+      "cidr": 63,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
-      "ipv4": 62,
+      "ipv4": 64,
       "title": "Cloud / hosting",
       "unresolved": 1
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 116,
+      "cidr": 113,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 116,
+      "ipv4": 113,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-09-12T02:27:36+00:00"
+  "updated_at": "2026-09-12T14:44:30+00:00"
 }
