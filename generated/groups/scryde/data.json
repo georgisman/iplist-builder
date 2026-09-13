@@ -1,9 +1,7 @@
 {
   "cidr": [
-    "3.33.130.190/32",
     "3.33.251.168/32",
     "13.248.213.45/32",
-    "15.197.148.33/32",
     "15.197.225.128/32",
     "76.223.67.189/32",
     "185.203.72.61/32"
@@ -31,18 +29,12 @@
   "id": "scryde",
   "ipv4": [
     "13.248.213.45",
-    "15.197.148.33",
     "15.197.225.128",
     "185.203.72.61",
-    "3.33.130.190",
     "3.33.251.168",
     "76.223.67.189"
   ],
   "ipv4_by_domain": {
-    "ruscryde.net": [
-      "15.197.148.33",
-      "3.33.130.190"
-    ],
     "scryde.io": [
       "15.197.225.128",
       "3.33.251.168"
@@ -61,13 +53,14 @@
   },
   "ipv6": [],
   "stats": {
-    "cidr": 7,
+    "cidr": 5,
     "domains": 17,
-    "ipv4": 7,
-    "unresolved": 12
+    "ipv4": 5,
+    "unresolved": 13
   },
   "title": "Scryde",
   "unresolved": {
+    "ruscryde.net": "NoAnswer: The DNS response does not contain an answer to the question: ruscryde.net. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "scryde.ru": "NoNameservers: All nameservers failed to answer the query scryde.ru. IN A: Server Do53:127.0.0.53@53 answered SERVFAIL; fallback gaierror: [Errno -2] Name or service not known",
     "scryde.world": "NoAnswer: The DNS response does not contain an answer to the question: scryde.world. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "scryde1.net": "NXDOMAIN: The DNS query name does not exist: scryde1.net.; fallback gaierror: [Errno -2] Name or service not known",
@@ -81,5 +74,5 @@
     "scryde8.net": "NXDOMAIN: The DNS query name does not exist: scryde8.net.; fallback gaierror: [Errno -2] Name or service not known",
     "scryde9.net": "NXDOMAIN: The DNS query name does not exist: scryde9.net.; fallback gaierror: [Errno -2] Name or service not known"
   },
-  "updated_at": "2026-09-13T02:26:07+00:00"
+  "updated_at": "2026-09-13T15:23:43+00:00"
 }
