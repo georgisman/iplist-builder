@@ -1,7 +1,7 @@
 {
   "cidr": [
     "3.33.251.168/32",
-    "5.161.47.86/32",
+    "5.161.230.87/32",
     "13.248.213.45/32",
     "15.197.225.128/32",
     "76.223.67.189/32",
@@ -35,13 +35,13 @@
     "185.203.72.61",
     "195.201.128.179",
     "3.33.251.168",
-    "5.161.47.86",
+    "5.161.230.87",
     "76.223.67.189"
   ],
   "ipv4_by_domain": {
     "ruscryde.net": [
       "195.201.128.179",
-      "5.161.47.86"
+      "5.161.230.87"
     ],
     "scryde.io": [
       "15.197.225.128",
@@ -81,5 +81,5 @@
     "scryde8.net": "NXDOMAIN: The DNS query name does not exist: scryde8.net.; fallback gaierror: [Errno -2] Name or service not known",
     "scryde9.net": "NXDOMAIN: The DNS query name does not exist: scryde9.net.; fallback gaierror: [Errno -2] Name or service not known"
   },
-  "updated_at": "2026-09-19T02:31:03+00:00"
+  "updated_at": "2026-09-19T15:07:20+00:00"
 }
