@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 745,
+    "cidr": 742,
     "domains": 420,
-    "ipv4": 764,
+    "ipv4": 758,
     "unresolved": 36
   },
   "generator": "scripts/generate.py",
@@ -89,16 +89,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 16,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 20,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 75,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-09-19T15:07:20+00:00"
+  "updated_at": "2026-09-20T02:42:20+00:00"
 }
