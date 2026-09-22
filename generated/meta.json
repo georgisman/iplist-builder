@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 713,
+    "cidr": 744,
     "domains": 420,
-    "ipv4": 741,
+    "ipv4": 760,
     "unresolved": 36
   },
   "generator": "scripts/generate.py",
@@ -62,20 +62,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 9,
+      "cidr": 11,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 9,
+      "ipv4": 11,
       "title": "Scryde",
       "unresolved": 12
     },
     {
-      "cidr": 51,
+      "cidr": 50,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 50,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,38 +89,38 @@
       "unresolved": 1
     },
     {
-      "cidr": 14,
+      "cidr": 16,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 16,
+      "ipv4": 20,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 71,
+      "cidr": 75,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 74,
+      "ipv4": 75,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 83,
+      "cidr": 86,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 86,
+      "ipv4": 88,
       "title": "Media / streaming / sports",
       "unresolved": 5
     },
     {
-      "cidr": 51,
+      "cidr": 53,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 56,
+      "ipv4": 58,
       "title": "Games",
       "unresolved": 5
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 116,
+      "cidr": 112,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 116,
+      "ipv4": 113,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-09-22T02:41:15+00:00"
+  "updated_at": "2026-09-22T16:01:50+00:00"
 }
