@@ -4,7 +4,7 @@
     "5.61.56.204/32",
     "5.61.59.57/32",
     "37.221.67.160/32",
-    "45.8.125.206/32",
+    "45.8.124.7/32",
     "45.137.66.127/32",
     "69.164.197.149/32",
     "89.125.255.8/32",
@@ -139,7 +139,7 @@
     "193.46.255.29",
     "37.221.67.160",
     "45.137.66.127",
-    "45.8.125.206",
+    "45.8.124.7",
     "5.45.87.206",
     "5.61.56.204",
     "5.61.59.57",
@@ -163,7 +163,7 @@
       "172.67.134.234"
     ],
     "btdig.com": [
-      "45.8.125.206"
+      "45.8.124.7"
     ],
     "cdnbunny.org": [
       "89.125.255.8"
@@ -277,5 +277,5 @@
     "rutracker.cc": "NoAnswer: The DNS response does not contain an answer to the question: rutracker.cc. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "torrentgalaxy.to": "NXDOMAIN: The DNS query name does not exist: torrentgalaxy.to.; fallback gaierror: [Errno -2] Name or service not known"
   },
-  "updated_at": "2026-09-26T02:51:19+00:00"
+  "updated_at": "2026-09-26T15:28:24+00:00"
 }
