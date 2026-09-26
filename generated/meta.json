@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 742,
+    "cidr": 713,
     "domains": 420,
-    "ipv4": 759,
+    "ipv4": 740,
     "unresolved": 36
   },
   "generator": "scripts/generate.py",
@@ -62,20 +62,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 8,
+      "cidr": 11,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 8,
+      "ipv4": 11,
       "title": "Scryde",
       "unresolved": 12
     },
     {
-      "cidr": 52,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 52,
+      "ipv4": 51,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,16 +89,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 16,
+      "cidr": 10,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 20,
+      "ipv4": 10,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 75,
+      "cidr": 73,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -116,7 +116,7 @@
       "unresolved": 5
     },
     {
-      "cidr": 50,
+      "cidr": 49,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -161,7 +161,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 70,
+      "cidr": 69,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
@@ -179,7 +179,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 115,
+      "cidr": 116,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-09-25T16:14:46+00:00"
+  "updated_at": "2026-09-26T02:51:19+00:00"
 }
