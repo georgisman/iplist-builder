@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 723,
+    "cidr": 735,
     "domains": 420,
-    "ipv4": 744,
+    "ipv4": 748,
     "unresolved": 38
   },
   "generator": "scripts/generate.py",
@@ -62,20 +62,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 5,
+      "cidr": 8,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 5,
+      "ipv4": 8,
       "title": "Scryde",
       "unresolved": 14
     },
     {
-      "cidr": 51,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 85,
+      "cidr": 86,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,11 +116,11 @@
       "unresolved": 5
     },
     {
-      "cidr": 50,
+      "cidr": 51,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 55,
+      "ipv4": 56,
       "title": "Games",
       "unresolved": 5
     },
@@ -134,7 +134,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
@@ -179,7 +179,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 116,
+      "cidr": 115,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-09-27T02:53:08+00:00"
+  "updated_at": "2026-09-27T16:08:04+00:00"
 }
