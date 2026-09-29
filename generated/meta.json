@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 742,
+    "cidr": 730,
     "domains": 420,
-    "ipv4": 762,
-    "unresolved": 38
+    "ipv4": 741,
+    "unresolved": 39
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -62,16 +62,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 9,
+      "cidr": 3,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 9,
+      "ipv4": 3,
       "title": "Scryde",
-      "unresolved": 14
+      "unresolved": 15
     },
     {
-      "cidr": 49,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 85,
+      "cidr": 86,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -125,7 +125,7 @@
       "unresolved": 5
     },
     {
-      "cidr": 62,
+      "cidr": 63,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
@@ -161,11 +161,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 72,
+      "cidr": 71,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
-      "ipv4": 72,
+      "ipv4": 71,
       "title": "Social / content / maps",
       "unresolved": 2
     },
@@ -183,7 +183,7 @@
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 113,
+      "ipv4": 114,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-09-29T03:33:44+00:00"
+  "updated_at": "2026-09-29T17:23:31+00:00"
 }
