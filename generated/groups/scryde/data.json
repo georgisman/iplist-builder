@@ -1,8 +1,14 @@
 {
   "cidr": [
     "3.33.251.168/32",
+    "5.78.156.59/32",
+    "5.161.47.86/32",
+    "5.161.230.87/32",
     "15.197.225.128/32",
-    "185.203.72.61/32"
+    "46.62.237.138/32",
+    "76.223.91.20/32",
+    "185.203.72.61/32",
+    "195.201.128.179/32"
   ],
   "description": "Scryde domains",
   "domains": [
@@ -28,9 +34,23 @@
   "ipv4": [
     "15.197.225.128",
     "185.203.72.61",
-    "3.33.251.168"
+    "195.201.128.179",
+    "3.33.251.168",
+    "46.62.237.138",
+    "5.161.230.87",
+    "5.161.47.86",
+    "5.78.156.59",
+    "76.223.91.20"
   ],
   "ipv4_by_domain": {
+    "ruscryde.net": [
+      "195.201.128.179",
+      "46.62.237.138",
+      "5.161.230.87",
+      "5.161.47.86",
+      "5.78.156.59",
+      "76.223.91.20"
+    ],
     "scryde.io": [
       "15.197.225.128",
       "3.33.251.168"
@@ -41,14 +61,13 @@
   },
   "ipv6": [],
   "stats": {
-    "cidr": 3,
+    "cidr": 9,
     "domains": 17,
-    "ipv4": 3,
-    "unresolved": 15
+    "ipv4": 9,
+    "unresolved": 14
   },
   "title": "Scryde",
   "unresolved": {
-    "ruscryde.net": "NoAnswer: The DNS response does not contain an answer to the question: ruscryde.net. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "scryde.ru": "NoNameservers: All nameservers failed to answer the query scryde.ru. IN A: Server Do53:127.0.0.53@53 answered SERVFAIL; fallback gaierror: [Errno -2] Name or service not known",
     "scryde.world": "NoAnswer: The DNS response does not contain an answer to the question: scryde.world. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "scryde1.net": "NXDOMAIN: The DNS query name does not exist: scryde1.net.; fallback gaierror: [Errno -2] Name or service not known",
@@ -64,5 +83,5 @@
     "scryde8.net": "NXDOMAIN: The DNS query name does not exist: scryde8.net.; fallback gaierror: [Errno -2] Name or service not known",
     "scryde9.net": "NXDOMAIN: The DNS query name does not exist: scryde9.net.; fallback gaierror: [Errno -2] Name or service not known"
   },
-  "updated_at": "2026-09-29T17:23:31+00:00"
+  "updated_at": "2026-09-30T03:19:09+00:00"
 }
