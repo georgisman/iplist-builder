@@ -277,5 +277,5 @@
     "rutracker.cc": "NoAnswer: The DNS response does not contain an answer to the question: rutracker.cc. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "torrentgalaxy.to": "NXDOMAIN: The DNS query name does not exist: torrentgalaxy.to.; fallback gaierror: [Errno -2] Name or service not known"
   },
-  "updated_at": "2026-09-30T17:21:03+00:00"
+  "updated_at": "2026-10-01T03:25:26+00:00"
 }
