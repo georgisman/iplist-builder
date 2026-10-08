@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 744,
+    "cidr": 743,
     "domains": 420,
-    "ipv4": 763,
+    "ipv4": 762,
     "unresolved": 38
   },
   "generator": "scripts/generate.py",
@@ -62,11 +62,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 9,
+      "cidr": 8,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 9,
+      "ipv4": 8,
       "title": "Scryde",
       "unresolved": 14
     },
@@ -125,7 +125,7 @@
       "unresolved": 5
     },
     {
-      "cidr": 63,
+      "cidr": 62,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-10-08T03:50:26+00:00"
+  "updated_at": "2026-10-08T18:14:43+00:00"
 }
