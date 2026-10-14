@@ -1,6 +1,6 @@
 {
   "all": {
-    "cidr": 742,
+    "cidr": 743,
     "domains": 420,
     "ipv4": 761,
     "unresolved": 38
@@ -62,20 +62,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 8,
+      "cidr": 9,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 8,
+      "ipv4": 9,
       "title": "Scryde",
       "unresolved": 14
     },
     {
-      "cidr": 49,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
@@ -98,11 +98,11 @@
       "unresolved": 0
     },
     {
-      "cidr": 79,
+      "cidr": 75,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 79,
+      "ipv4": 75,
       "title": "Developer tools",
       "unresolved": 0
     },
@@ -111,16 +111,16 @@
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 88,
+      "ipv4": 87,
       "title": "Media / streaming / sports",
       "unresolved": 5
     },
     {
-      "cidr": 51,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 56,
+      "ipv4": 55,
       "title": "Games",
       "unresolved": 5
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 110,
+      "cidr": 113,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 110,
+      "ipv4": 114,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-10-14T02:57:47+00:00"
+  "updated_at": "2026-10-14T16:15:54+00:00"
 }
