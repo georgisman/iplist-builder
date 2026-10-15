@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 736,
+    "cidr": 743,
     "domains": 420,
-    "ipv4": 750,
+    "ipv4": 761,
     "unresolved": 38
   },
   "generator": "scripts/generate.py",
@@ -62,20 +62,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 9,
+      "cidr": 8,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 9,
+      "ipv4": 8,
       "title": "Scryde",
       "unresolved": 14
     },
     {
-      "cidr": 51,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 12,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 14,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-10-15T02:37:03+00:00"
+  "updated_at": "2026-10-15T16:03:07+00:00"
 }
