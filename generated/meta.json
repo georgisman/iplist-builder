@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 740,
+    "cidr": 741,
     "domains": 420,
-    "ipv4": 759,
+    "ipv4": 763,
     "unresolved": 38
   },
   "generator": "scripts/generate.py",
@@ -62,11 +62,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 8,
+      "cidr": 9,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 8,
+      "ipv4": 9,
       "title": "Scryde",
       "unresolved": 14
     },
@@ -98,7 +98,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 74,
+      "cidr": 75,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -116,11 +116,11 @@
       "unresolved": 5
     },
     {
-      "cidr": 50,
+      "cidr": 52,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 55,
+      "ipv4": 58,
       "title": "Games",
       "unresolved": 5
     },
@@ -179,7 +179,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 115,
+      "cidr": 114,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-10-16T15:51:25+00:00"
+  "updated_at": "2026-10-17T02:24:54+00:00"
 }
