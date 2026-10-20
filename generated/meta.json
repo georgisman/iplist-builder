@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 724,
+    "cidr": 737,
     "domains": 420,
-    "ipv4": 744,
+    "ipv4": 753,
     "unresolved": 38
   },
   "generator": "scripts/generate.py",
@@ -62,11 +62,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 8,
+      "cidr": 9,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 8,
+      "ipv4": 9,
       "title": "Scryde",
       "unresolved": 14
     },
@@ -75,7 +75,7 @@
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
@@ -134,7 +134,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 21,
+      "cidr": 22,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 115,
+      "cidr": 118,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 115,
+      "ipv4": 118,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-10-20T02:51:14+00:00"
+  "updated_at": "2026-10-20T16:07:00+00:00"
 }
