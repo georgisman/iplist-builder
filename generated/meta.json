@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 737,
+    "cidr": 733,
     "domains": 420,
-    "ipv4": 753,
+    "ipv4": 746,
     "unresolved": 38
   },
   "generator": "scripts/generate.py",
@@ -71,7 +71,7 @@
       "unresolved": 14
     },
     {
-      "cidr": 51,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -80,11 +80,11 @@
       "unresolved": 2
     },
     {
-      "cidr": 12,
+      "cidr": 11,
       "description": "Notion app, sites and static resources",
       "domains": 6,
       "id": "notion",
-      "ipv4": 14,
+      "ipv4": 13,
       "title": "Notion",
       "unresolved": 1
     },
@@ -107,16 +107,16 @@
       "unresolved": 0
     },
     {
-      "cidr": 86,
+      "cidr": 84,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 88,
+      "ipv4": 87,
       "title": "Media / streaming / sports",
       "unresolved": 5
     },
     {
-      "cidr": 50,
+      "cidr": 49,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 118,
+      "cidr": 115,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 118,
+      "ipv4": 115,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-10-20T16:07:00+00:00"
+  "updated_at": "2026-10-21T02:45:41+00:00"
 }
