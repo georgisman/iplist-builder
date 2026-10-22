@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 739,
+    "cidr": 741,
     "domains": 420,
-    "ipv4": 761,
+    "ipv4": 763,
     "unresolved": 38
   },
   "generator": "scripts/generate.py",
@@ -116,11 +116,11 @@
       "unresolved": 5
     },
     {
-      "cidr": 51,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 57,
+      "ipv4": 55,
       "title": "Games",
       "unresolved": 5
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 111,
+      "cidr": 114,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 112,
+      "ipv4": 115,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-10-22T02:43:40+00:00"
+  "updated_at": "2026-10-22T16:23:22+00:00"
 }
