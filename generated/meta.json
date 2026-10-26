@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 709,
+    "cidr": 742,
     "domains": 420,
-    "ipv4": 730,
+    "ipv4": 762,
     "unresolved": 38
   },
   "generator": "scripts/generate.py",
@@ -62,16 +62,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 7,
+      "cidr": 9,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 7,
+      "ipv4": 9,
       "title": "Scryde",
       "unresolved": 14
     },
     {
-      "cidr": 51,
+      "cidr": 50,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -89,16 +89,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 10,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 10,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 72,
+      "cidr": 74,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 84,
+      "cidr": 85,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,7 +116,7 @@
       "unresolved": 5
     },
     {
-      "cidr": 49,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-10-25T15:20:43+00:00"
+  "updated_at": "2026-10-26T02:34:04+00:00"
 }
