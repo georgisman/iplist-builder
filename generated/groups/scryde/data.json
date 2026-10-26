@@ -3,9 +3,7 @@
     "3.33.251.168/32",
     "5.78.156.59/32",
     "5.161.47.86/32",
-    "5.161.230.87/32",
     "15.197.225.128/32",
-    "46.62.237.138/32",
     "76.223.91.20/32",
     "185.203.72.61/32",
     "195.201.128.179/32"
@@ -36,8 +34,6 @@
     "185.203.72.61",
     "195.201.128.179",
     "3.33.251.168",
-    "46.62.237.138",
-    "5.161.230.87",
     "5.161.47.86",
     "5.78.156.59",
     "76.223.91.20"
@@ -45,8 +41,6 @@
   "ipv4_by_domain": {
     "ruscryde.net": [
       "195.201.128.179",
-      "46.62.237.138",
-      "5.161.230.87",
       "5.161.47.86",
       "5.78.156.59",
       "76.223.91.20"
@@ -61,14 +55,14 @@
   },
   "ipv6": [],
   "stats": {
-    "cidr": 9,
+    "cidr": 7,
     "domains": 17,
-    "ipv4": 9,
+    "ipv4": 7,
     "unresolved": 14
   },
   "title": "Scryde",
   "unresolved": {
-    "scryde.ru": "NoNameservers: All nameservers failed to answer the query scryde.ru. IN A: Server Do53:127.0.0.53@53 answered SERVFAIL; fallback gaierror: [Errno -2] Name or service not known",
+    "scryde.ru": "NoNameservers: All nameservers failed to answer the query scryde.ru. IN A: Server Do53:127.0.0.100@53 answered SERVFAIL; Server Do53:127.0.0.53@53 answered SERVFAIL; Server Do53:168.63.129.16@53 answered SERVFAIL; fallback gaierror: [Errno -2] Name or service not known",
     "scryde.world": "NoAnswer: The DNS response does not contain an answer to the question: scryde.world. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "scryde1.net": "NXDOMAIN: The DNS query name does not exist: scryde1.net.; fallback gaierror: [Errno -2] Name or service not known",
     "scryde10.net": "NXDOMAIN: The DNS query name does not exist: scryde10.net.; fallback gaierror: [Errno -2] Name or service not known",
@@ -83,5 +77,5 @@
     "scryde8.net": "NXDOMAIN: The DNS query name does not exist: scryde8.net.; fallback gaierror: [Errno -2] Name or service not known",
     "scryde9.net": "NXDOMAIN: The DNS query name does not exist: scryde9.net.; fallback gaierror: [Errno -2] Name or service not known"
   },
-  "updated_at": "2026-10-26T02:34:04+00:00"
+  "updated_at": "2026-10-26T18:01:31+00:00"
 }
