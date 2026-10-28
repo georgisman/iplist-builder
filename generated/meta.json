@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 722,
+    "cidr": 735,
     "domains": 420,
-    "ipv4": 750,
-    "unresolved": 38
+    "ipv4": 757,
+    "unresolved": 39
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -44,13 +44,13 @@
       "unresolved": 1
     },
     {
-      "cidr": 52,
+      "cidr": 51,
       "description": "Torrent trackers and torrent-related resources",
       "domains": 34,
       "id": "torrents",
-      "ipv4": 52,
+      "ipv4": 51,
       "title": "Torrents",
-      "unresolved": 3
+      "unresolved": 4
     },
     {
       "cidr": 45,
@@ -71,11 +71,11 @@
       "unresolved": 14
     },
     {
-      "cidr": 52,
+      "cidr": 50,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 52,
+      "ipv4": 51,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,16 +89,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 14,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 16,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 73,
+      "cidr": 75,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 86,
+      "cidr": 85,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -120,7 +120,7 @@
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 57,
+      "ipv4": 55,
       "title": "Games",
       "unresolved": 5
     },
@@ -161,7 +161,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 69,
+      "cidr": 70,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 118,
+      "cidr": 111,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 119,
+      "ipv4": 112,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-10-27T17:08:26+00:00"
+  "updated_at": "2026-10-28T03:22:25+00:00"
 }
