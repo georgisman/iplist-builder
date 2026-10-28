@@ -4,6 +4,7 @@
     "5.61.56.204/32",
     "5.61.59.57/32",
     "37.221.67.160/32",
+    "45.8.125.206/32",
     "45.137.66.127/32",
     "69.164.197.149/32",
     "89.125.255.8/32",
@@ -136,6 +137,7 @@
     "193.46.255.29",
     "37.221.67.160",
     "45.137.66.127",
+    "45.8.125.206",
     "5.45.87.206",
     "5.61.56.204",
     "5.61.59.57",
@@ -157,6 +159,9 @@
     "bt4gprx.com": [
       "104.21.25.239",
       "172.67.134.234"
+    ],
+    "btdig.com": [
+      "45.8.125.206"
     ],
     "cdnbunny.org": [
       "89.125.255.8"
@@ -258,17 +263,16 @@
   },
   "ipv6": [],
   "stats": {
-    "cidr": 51,
+    "cidr": 52,
     "domains": 34,
-    "ipv4": 51,
-    "unresolved": 4
+    "ipv4": 52,
+    "unresolved": 3
   },
   "title": "Torrents",
   "unresolved": {
-    "btdig.com": "LifetimeTimeout: The resolution lifetime expired after 5.203 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.; Server Do53:127.0.0.53@53 answered The DNS operation timed out.; fallback gaierror: [Errno -2] Name or service not known",
     "cnd2exp.online": "NXDOMAIN: The DNS query name does not exist: cnd2exp.online.; fallback gaierror: [Errno -2] Name or service not known",
     "rutracker.cc": "NoAnswer: The DNS response does not contain an answer to the question: rutracker.cc. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "torrentgalaxy.to": "NXDOMAIN: The DNS query name does not exist: torrentgalaxy.to.; fallback gaierror: [Errno -2] Name or service not known"
   },
-  "updated_at": "2026-10-28T03:22:25+00:00"
+  "updated_at": "2026-10-28T17:43:54+00:00"
 }
