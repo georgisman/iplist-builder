@@ -68,7 +68,7 @@
   },
   "title": "Scryde",
   "unresolved": {
-    "scryde.ru": "NoNameservers: All nameservers failed to answer the query scryde.ru. IN A: Server Do53:127.0.0.100@53 answered SERVFAIL; Server Do53:127.0.0.53@53 answered SERVFAIL; Server Do53:168.63.129.16@53 answered SERVFAIL; fallback gaierror: [Errno -2] Name or service not known",
+    "scryde.ru": "NoNameservers: All nameservers failed to answer the query scryde.ru. IN A: Server Do53:127.0.0.53@53 answered SERVFAIL; fallback gaierror: [Errno -2] Name or service not known",
     "scryde.world": "NoAnswer: The DNS response does not contain an answer to the question: scryde.world. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "scryde1.net": "NXDOMAIN: The DNS query name does not exist: scryde1.net.; fallback gaierror: [Errno -2] Name or service not known",
     "scryde10.net": "NXDOMAIN: The DNS query name does not exist: scryde10.net.; fallback gaierror: [Errno -2] Name or service not known",
@@ -83,5 +83,5 @@
     "scryde8.net": "NXDOMAIN: The DNS query name does not exist: scryde8.net.; fallback gaierror: [Errno -2] Name or service not known",
     "scryde9.net": "NXDOMAIN: The DNS query name does not exist: scryde9.net.; fallback gaierror: [Errno -2] Name or service not known"
   },
-  "updated_at": "2026-10-28T17:43:54+00:00"
+  "updated_at": "2026-10-29T03:45:32+00:00"
 }

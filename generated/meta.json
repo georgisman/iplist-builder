@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 706,
+    "cidr": 745,
     "domains": 420,
-    "ipv4": 735,
+    "ipv4": 765,
     "unresolved": 38
   },
   "generator": "scripts/generate.py",
@@ -71,11 +71,11 @@
       "unresolved": 14
     },
     {
-      "cidr": 51,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,38 +89,38 @@
       "unresolved": 1
     },
     {
-      "cidr": 14,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 16,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 75,
+      "cidr": 78,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 77,
+      "ipv4": 78,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 83,
+      "cidr": 85,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 85,
+      "ipv4": 87,
       "title": "Media / streaming / sports",
       "unresolved": 5
     },
     {
-      "cidr": 49,
+      "cidr": 55,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 55,
+      "ipv4": 60,
       "title": "Games",
       "unresolved": 5
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 115,
+      "cidr": 110,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 115,
+      "ipv4": 112,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-10-28T17:43:54+00:00"
+  "updated_at": "2026-10-29T03:45:32+00:00"
 }
