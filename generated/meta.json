@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 729,
+    "cidr": 726,
     "domains": 420,
-    "ipv4": 747,
+    "ipv4": 751,
     "unresolved": 38
   },
   "generator": "scripts/generate.py",
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 11,
+      "cidr": 14,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 11,
+      "ipv4": 16,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -116,25 +116,25 @@
       "unresolved": 5
     },
     {
-      "cidr": 50,
+      "cidr": 51,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 55,
+      "ipv4": 56,
       "title": "Games",
       "unresolved": 5
     },
     {
-      "cidr": 67,
+      "cidr": 63,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
-      "ipv4": 68,
+      "ipv4": 64,
       "title": "Cloud / hosting",
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-10-29T17:51:00+00:00"
+  "updated_at": "2026-10-30T03:48:37+00:00"
 }
