@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 710,
+    "cidr": 724,
     "domains": 420,
-    "ipv4": 736,
+    "ipv4": 745,
     "unresolved": 39
   },
   "generator": "scripts/generate.py",
@@ -98,16 +98,16 @@
       "unresolved": 0
     },
     {
-      "cidr": 74,
+      "cidr": 78,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 77,
+      "ipv4": 78,
       "title": "Developer tools",
       "unresolved": 0
     },
     {
-      "cidr": 84,
+      "cidr": 85,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-05T04:31:48+00:00"
+  "updated_at": "2026-11-05T19:17:00+00:00"
 }
