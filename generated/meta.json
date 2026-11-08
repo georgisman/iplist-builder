@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 732,
+    "cidr": 714,
     "domains": 420,
-    "ipv4": 752,
-    "unresolved": 41
+    "ipv4": 741,
+    "unresolved": 39
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -62,20 +62,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 9,
+      "cidr": 8,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 9,
+      "ipv4": 8,
       "title": "Scryde",
       "unresolved": 14
     },
     {
-      "cidr": 50,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,16 +89,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 14,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 16,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 78,
+      "cidr": 76,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 85,
+      "cidr": 86,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,7 +116,7 @@
       "unresolved": 5
     },
     {
-      "cidr": 48,
+      "cidr": 47,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -161,7 +161,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 67,
+      "cidr": 66,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
@@ -170,20 +170,20 @@
       "unresolved": 2
     },
     {
-      "cidr": 26,
+      "cidr": 28,
       "description": "Chip, electronics, industrial and hardware vendors",
       "domains": 26,
       "id": "electronics-vendors",
-      "ipv4": 26,
+      "ipv4": 28,
       "title": "Electronics vendors",
-      "unresolved": 3
+      "unresolved": 1
     },
     {
-      "cidr": 113,
+      "cidr": 118,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 114,
+      "ipv4": 119,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-08T03:42:15+00:00"
+  "updated_at": "2026-11-08T17:26:46+00:00"
 }
