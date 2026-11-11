@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 733,
+    "cidr": 706,
     "domains": 420,
-    "ipv4": 755,
-    "unresolved": 39
+    "ipv4": 731,
+    "unresolved": 42
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -62,20 +62,20 @@
       "unresolved": 1
     },
     {
-      "cidr": 8,
+      "cidr": 9,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 8,
+      "ipv4": 9,
       "title": "Scryde",
       "unresolved": 14
     },
     {
-      "cidr": 50,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,16 +89,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 20,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 26,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 78,
+      "cidr": 76,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 85,
+      "cidr": 86,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -120,7 +120,7 @@
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 52,
+      "ipv4": 53,
       "title": "Games",
       "unresolved": 6
     },
@@ -170,13 +170,13 @@
       "unresolved": 2
     },
     {
-      "cidr": 28,
+      "cidr": 25,
       "description": "Chip, electronics, industrial and hardware vendors",
       "domains": 26,
       "id": "electronics-vendors",
-      "ipv4": 28,
+      "ipv4": 25,
       "title": "Electronics vendors",
-      "unresolved": 1
+      "unresolved": 4
     },
     {
       "cidr": 114,
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-10T19:07:51+00:00"
+  "updated_at": "2026-11-11T03:59:02+00:00"
 }

@@ -5,20 +5,17 @@
     "12.5.163.52/32",
     "13.91.95.74/32",
     "15.197.188.243/32",
-    "23.198.76.189/32",
-    "23.198.77.70/32",
+    "23.51.221.209/32",
+    "23.51.222.105/32",
     "32.185.116.145/32",
     "34.227.236.7/32",
     "35.84.52.255/32",
-    "51.144.188.75/32",
     "52.27.67.200/32",
-    "52.149.57.66/32",
     "54.200.31.123/32",
     "72.163.4.185/32",
     "104.18.40.113/32",
     "129.46.98.181/32",
     "137.71.173.128/32",
-    "139.15.177.136/32",
     "143.166.30.172/32",
     "143.166.136.12/32",
     "162.159.140.3/32",
@@ -65,7 +62,6 @@
     "129.46.98.181",
     "13.91.95.74",
     "137.71.173.128",
-    "139.15.177.136",
     "143.166.136.12",
     "143.166.30.172",
     "15.197.188.243",
@@ -76,15 +72,13 @@
     "198.175.96.183",
     "198.47.23.159",
     "204.221.76.76",
-    "23.198.76.189",
-    "23.198.77.70",
+    "23.51.221.209",
+    "23.51.222.105",
     "3.173.21.50",
     "3.33.178.35",
     "32.185.116.145",
     "34.227.236.7",
     "35.84.52.255",
-    "51.144.188.75",
-    "52.149.57.66",
     "52.27.67.200",
     "54.200.31.123",
     "72.163.4.185"
@@ -92,15 +86,6 @@
   "ipv4_by_domain": {
     "analog.com": [
       "137.71.173.128"
-    ],
-    "bosch.com": [
-      "139.15.177.136"
-    ],
-    "boschaftermarket.com": [
-      "51.144.188.75"
-    ],
-    "boschautoparts.com": [
-      "52.149.57.66"
     ],
     "cisco.com": [
       "72.163.4.185"
@@ -113,7 +98,7 @@
       "204.221.76.76"
     ],
     "element14.com": [
-      "23.198.76.189"
+      "23.51.221.209"
     ],
     "fluke.com": [
       "104.18.40.113",
@@ -147,7 +132,7 @@
       "12.5.163.52"
     ],
     "newark.com": [
-      "23.198.77.70"
+      "23.51.222.105"
     ],
     "nxp.com": [
       "32.185.116.145",
@@ -176,14 +161,17 @@
   },
   "ipv6": [],
   "stats": {
-    "cidr": 28,
+    "cidr": 25,
     "domains": 26,
-    "ipv4": 28,
-    "unresolved": 1
+    "ipv4": 25,
+    "unresolved": 4
   },
   "title": "Electronics vendors",
   "unresolved": {
+    "bosch.com": "LifetimeTimeout: The resolution lifetime expired after 5.203 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.; Server Do53:127.0.0.53@53 answered The DNS operation timed out.; fallback gaierror: [Errno -2] Name or service not known",
+    "boschaftermarket.com": "LifetimeTimeout: The resolution lifetime expired after 5.203 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.; Server Do53:127.0.0.53@53 answered The DNS operation timed out.; fallback gaierror: [Errno -2] Name or service not known",
+    "boschautoparts.com": "LifetimeTimeout: The resolution lifetime expired after 5.203 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.; Server Do53:127.0.0.53@53 answered The DNS operation timed out.; fallback gaierror: [Errno -2] Name or service not known",
     "dellcdn.com": "NoAnswer: The DNS response does not contain an answer to the question: dellcdn.com. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-11-10T19:07:51+00:00"
+  "updated_at": "2026-11-11T03:59:02+00:00"
 }
