@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 706,
+    "cidr": 724,
     "domains": 420,
-    "ipv4": 731,
-    "unresolved": 42
+    "ipv4": 741,
+    "unresolved": 39
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -62,11 +62,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 9,
+      "cidr": 8,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 9,
+      "ipv4": 8,
       "title": "Scryde",
       "unresolved": 14
     },
@@ -89,16 +89,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 11,
+      "cidr": 13,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 11,
+      "ipv4": 15,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 76,
+      "cidr": 77,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -107,7 +107,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 86,
+      "cidr": 85,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,7 +116,7 @@
       "unresolved": 5
     },
     {
-      "cidr": 47,
+      "cidr": 48,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -134,11 +134,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 22,
+      "ipv4": 21,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -170,16 +170,16 @@
       "unresolved": 2
     },
     {
-      "cidr": 25,
+      "cidr": 28,
       "description": "Chip, electronics, industrial and hardware vendors",
       "domains": 26,
       "id": "electronics-vendors",
-      "ipv4": 25,
+      "ipv4": 28,
       "title": "Electronics vendors",
-      "unresolved": 4
+      "unresolved": 1
     },
     {
-      "cidr": 114,
+      "cidr": 115,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-11T03:59:02+00:00"
+  "updated_at": "2026-11-11T19:04:49+00:00"
 }
