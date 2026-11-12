@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 724,
+    "cidr": 707,
     "domains": 420,
-    "ipv4": 741,
+    "ipv4": 733,
     "unresolved": 39
   },
   "generator": "scripts/generate.py",
@@ -62,11 +62,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 8,
+      "cidr": 9,
       "description": "Scryde domains",
       "domains": 17,
       "id": "scryde",
-      "ipv4": 8,
+      "ipv4": 9,
       "title": "Scryde",
       "unresolved": 14
     },
@@ -89,16 +89,16 @@
       "unresolved": 1
     },
     {
-      "cidr": 13,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 15,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 77,
+      "cidr": 76,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
@@ -116,7 +116,7 @@
       "unresolved": 5
     },
     {
-      "cidr": 48,
+      "cidr": 47,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -134,11 +134,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 21,
+      "cidr": 22,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
-      "ipv4": 21,
+      "ipv4": 22,
       "title": "Finance / crypto",
       "unresolved": 0
     },
@@ -161,7 +161,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 67,
+      "cidr": 66,
       "description": "Social platforms, creator resources, image resources and map/news resources",
       "domains": 29,
       "id": "social-content",
@@ -179,7 +179,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 115,
+      "cidr": 114,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-11T19:04:49+00:00"
+  "updated_at": "2026-11-12T05:10:03+00:00"
 }
