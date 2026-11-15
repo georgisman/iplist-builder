@@ -116,11 +116,11 @@
       "unresolved": 5
     },
     {
-      "cidr": 51,
+      "cidr": 52,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 56,
+      "ipv4": 57,
       "title": "Games",
       "unresolved": 5
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-14T17:30:42+00:00"
+  "updated_at": "2026-11-15T04:06:32+00:00"
 }
