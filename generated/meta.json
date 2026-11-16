@@ -1,9 +1,9 @@
 {
   "all": {
-    "cidr": 733,
+    "cidr": 734,
     "domains": 420,
-    "ipv4": 756,
-    "unresolved": 38
+    "ipv4": 754,
+    "unresolved": 39
   },
   "generator": "scripts/generate.py",
   "groups": [
@@ -98,16 +98,16 @@
       "unresolved": 0
     },
     {
-      "cidr": 78,
+      "cidr": 76,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 78,
+      "ipv4": 76,
       "title": "Developer tools",
-      "unresolved": 0
+      "unresolved": 1
     },
     {
-      "cidr": 84,
+      "cidr": 85,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,20 +116,20 @@
       "unresolved": 5
     },
     {
-      "cidr": 49,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 56,
+      "ipv4": 55,
       "title": "Games",
       "unresolved": 5
     },
     {
-      "cidr": 63,
+      "cidr": 64,
       "description": "Cloud providers, hosting providers and remote tooling",
       "domains": 26,
       "id": "cloud-hosting",
-      "ipv4": 64,
+      "ipv4": 65,
       "title": "Cloud / hosting",
       "unresolved": 1
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 112,
+      "cidr": 115,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 112,
+      "ipv4": 115,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-16T04:05:38+00:00"
+  "updated_at": "2026-11-16T21:28:12+00:00"
 }
