@@ -1,6 +1,5 @@
 {
   "cidr": [
-    "5.45.87.206/32",
     "5.61.56.204/32",
     "5.61.59.57/32",
     "37.221.67.160/32",
@@ -140,7 +139,6 @@
     "193.46.255.29",
     "37.221.67.160",
     "45.137.66.127",
-    "5.45.87.206",
     "5.61.56.204",
     "5.61.59.57",
     "69.164.197.149",
@@ -191,7 +189,6 @@
       "127.0.0.1"
     ],
     "kinozaltv.life": [
-      "5.45.87.206",
       "5.61.56.204",
       "5.61.59.57"
     ],
@@ -266,9 +263,9 @@
   },
   "ipv6": [],
   "stats": {
-    "cidr": 53,
+    "cidr": 52,
     "domains": 34,
-    "ipv4": 53,
+    "ipv4": 52,
     "unresolved": 3
   },
   "title": "Torrents",
@@ -277,5 +274,5 @@
     "rutracker.cc": "NoAnswer: The DNS response does not contain an answer to the question: rutracker.cc. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "torrentgalaxy.to": "NXDOMAIN: The DNS query name does not exist: torrentgalaxy.to.; fallback gaierror: [Errno -2] Name or service not known"
   },
-  "updated_at": "2026-11-18T05:24:11+00:00"
+  "updated_at": "2026-11-18T19:48:04+00:00"
 }
