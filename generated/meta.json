@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 727,
+    "cidr": 717,
     "domains": 420,
-    "ipv4": 747,
+    "ipv4": 736,
     "unresolved": 39
   },
   "generator": "scripts/generate.py",
@@ -89,11 +89,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 17,
+      "cidr": 11,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 21,
+      "ipv4": 11,
       "title": "Google selected services",
       "unresolved": 0
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 115,
+      "cidr": 113,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 115,
+      "ipv4": 114,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-19T05:20:31+00:00"
+  "updated_at": "2026-11-19T19:48:29+00:00"
 }
