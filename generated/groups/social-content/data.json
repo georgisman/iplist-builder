@@ -30,7 +30,6 @@
     "104.26.13.75/32",
     "104.26.14.80/32",
     "104.26.15.80/32",
-    "107.189.8.227/32",
     "110.93.151.133/32",
     "110.93.151.163/32",
     "143.204.1.39/32",
@@ -49,6 +48,7 @@
     "162.159.152.17/32",
     "162.159.153.4/32",
     "162.159.153.247/32",
+    "171.25.158.63/32",
     "172.64.145.239/32",
     "172.64.154.159/32",
     "172.66.170.251/32",
@@ -125,7 +125,6 @@
     "104.26.7.38",
     "104.26.8.134",
     "104.26.9.134",
-    "107.189.8.227",
     "110.93.151.133",
     "110.93.151.163",
     "13.248.160.137",
@@ -145,6 +144,7 @@
     "162.159.152.4",
     "162.159.153.247",
     "162.159.153.4",
+    "171.25.158.63",
     "172.64.145.239",
     "172.64.154.159",
     "172.66.170.251",
@@ -172,7 +172,7 @@
   ],
   "ipv4_by_domain": {
     "archive.ph": [
-      "107.189.8.227"
+      "171.25.158.63"
     ],
     "archiveofourown.org": [
       "104.20.8.2",
@@ -307,5 +307,5 @@
     "kym-cdn.com": "NoAnswer: The DNS response does not contain an answer to the question: kym-cdn.com. IN A; fallback gaierror: [Errno -5] No address associated with hostname",
     "patreonusercontent.com": "NoAnswer: The DNS response does not contain an answer to the question: patreonusercontent.com. IN A; fallback gaierror: [Errno -5] No address associated with hostname"
   },
-  "updated_at": "2026-11-21T05:00:10+00:00"
+  "updated_at": "2026-11-21T18:31:00+00:00"
 }
