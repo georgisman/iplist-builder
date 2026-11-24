@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 695,
+    "cidr": 740,
     "domains": 420,
-    "ipv4": 719,
+    "ipv4": 758,
     "unresolved": 39
   },
   "generator": "scripts/generate.py",
@@ -75,7 +75,7 @@
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 51,
+      "ipv4": 52,
       "title": "AI services",
       "unresolved": 2
     },
@@ -89,38 +89,38 @@
       "unresolved": 1
     },
     {
-      "cidr": 9,
+      "cidr": 20,
       "description": "Selected Google endpoints",
       "domains": 4,
       "id": "google",
-      "ipv4": 9,
+      "ipv4": 26,
       "title": "Google selected services",
       "unresolved": 0
     },
     {
-      "cidr": 74,
+      "cidr": 80,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 76,
+      "ipv4": 80,
       "title": "Developer tools",
       "unresolved": 1
     },
     {
-      "cidr": 83,
+      "cidr": 85,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 85,
+      "ipv4": 87,
       "title": "Media / streaming / sports",
       "unresolved": 5
     },
     {
-      "cidr": 50,
+      "cidr": 52,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 55,
+      "ipv4": 57,
       "title": "Games",
       "unresolved": 5
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-24T07:49:03+00:00"
+  "updated_at": "2026-11-24T21:47:14+00:00"
 }
