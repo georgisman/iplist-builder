@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 730,
+    "cidr": 736,
     "domains": 420,
-    "ipv4": 751,
+    "ipv4": 755,
     "unresolved": 39
   },
   "generator": "scripts/generate.py",
@@ -71,7 +71,7 @@
       "unresolved": 14
     },
     {
-      "cidr": 52,
+      "cidr": 51,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -107,7 +107,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 86,
+      "cidr": 85,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,7 +116,7 @@
       "unresolved": 5
     },
     {
-      "cidr": 49,
+      "cidr": 50,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
@@ -134,7 +134,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 21,
+      "cidr": 22,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
@@ -152,7 +152,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 39,
+      "cidr": 40,
       "description": "Education, medical reference, science and books",
       "domains": 19,
       "id": "education-science",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-25T06:21:40+00:00"
+  "updated_at": "2026-11-25T20:54:28+00:00"
 }
