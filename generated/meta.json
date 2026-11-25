@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 740,
+    "cidr": 730,
     "domains": 420,
-    "ipv4": 758,
+    "ipv4": 751,
     "unresolved": 39
   },
   "generator": "scripts/generate.py",
@@ -71,7 +71,7 @@
       "unresolved": 14
     },
     {
-      "cidr": 51,
+      "cidr": 52,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
@@ -98,16 +98,16 @@
       "unresolved": 0
     },
     {
-      "cidr": 80,
+      "cidr": 76,
       "description": "Developer tools and technical documentation. GitHub-related domains are intentionally not invented.",
       "domains": 42,
       "id": "dev",
-      "ipv4": 80,
+      "ipv4": 76,
       "title": "Developer tools",
       "unresolved": 1
     },
     {
-      "cidr": 85,
+      "cidr": 86,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
@@ -116,11 +116,11 @@
       "unresolved": 5
     },
     {
-      "cidr": 52,
+      "cidr": 49,
       "description": "Gaming services and gaming-related resources",
       "domains": 24,
       "id": "games",
-      "ipv4": 57,
+      "ipv4": 55,
       "title": "Games",
       "unresolved": 5
     },
@@ -134,7 +134,7 @@
       "unresolved": 1
     },
     {
-      "cidr": 22,
+      "cidr": 21,
       "description": "Finance, crypto, exchangers and payment services",
       "domains": 10,
       "id": "finance",
@@ -152,7 +152,7 @@
       "unresolved": 0
     },
     {
-      "cidr": 40,
+      "cidr": 39,
       "description": "Education, medical reference, science and books",
       "domains": 19,
       "id": "education-science",
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-24T21:47:14+00:00"
+  "updated_at": "2026-11-25T06:21:40+00:00"
 }
