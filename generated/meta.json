@@ -1,8 +1,8 @@
 {
   "all": {
-    "cidr": 739,
+    "cidr": 731,
     "domains": 420,
-    "ipv4": 758,
+    "ipv4": 751,
     "unresolved": 39
   },
   "generator": "scripts/generate.py",
@@ -71,11 +71,11 @@
       "unresolved": 14
     },
     {
-      "cidr": 51,
+      "cidr": 50,
       "description": "AI assistants, model providers and AI tooling",
       "domains": 34,
       "id": "ai",
-      "ipv4": 52,
+      "ipv4": 51,
       "title": "AI services",
       "unresolved": 2
     },
@@ -107,11 +107,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 86,
+      "cidr": 85,
       "description": "Streaming, audio, video and sports resources",
       "domains": 43,
       "id": "media",
-      "ipv4": 88,
+      "ipv4": 87,
       "title": "Media / streaming / sports",
       "unresolved": 5
     },
@@ -179,11 +179,11 @@
       "unresolved": 1
     },
     {
-      "cidr": 116,
+      "cidr": 111,
       "description": "Commercial software, SaaS and vendor domains",
       "domains": 58,
       "id": "software-companies",
-      "ipv4": 116,
+      "ipv4": 112,
       "title": "Software companies",
       "unresolved": 1
     },
@@ -198,5 +198,5 @@
     }
   ],
   "safe_mode": true,
-  "updated_at": "2026-11-26T06:13:57+00:00"
+  "updated_at": "2026-11-26T20:45:38+00:00"
 }
