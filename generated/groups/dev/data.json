@@ -380,5 +380,5 @@
   "unresolved": {
     "jetbrains.space": "LifetimeTimeout: The resolution lifetime expired after 5.203 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.; Server Do53:127.0.0.53@53 answered The DNS operation timed out.; fallback gaierror: [Errno -2] Name or service not known"
   },
-  "updated_at": "2026-11-25T20:54:28+00:00"
+  "updated_at": "2026-11-26T06:13:57+00:00"
 }
